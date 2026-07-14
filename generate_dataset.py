@@ -187,7 +187,7 @@ def save_csv(rows, filename="complaints.csv"):
 
 if __name__ == "__main__":
     rows = generate_rows()
-    save_csv(rows)
+    save_csv(rows, "data/complaints.csv")
 
     print(f"Generated {len(rows)} complaints -> complaints.csv")
 
