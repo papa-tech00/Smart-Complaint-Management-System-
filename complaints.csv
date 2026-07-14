@@ -1,0 +1,661 @@
+complaint_id,category,complaint_text,area,date_reported,priority,status
+1,Water Supply,"Irregular water supply timing in Melapudur, water comes only for 10 minutes.",Melapudur,2026-03-11,High,In Progress
+2,Road Damage,Deep crack across the road in Cantonment is widening every day.,Cantonment,2026-02-14,Medium,In Progress
+3,Street Light,Broken street light glass in Anna Nagar Lake Road is scattered on the footpath.,Anna Nagar,2025-05-16,High,In Progress
+4,Water Supply,"Irregular water supply timing in Golden Rock, water comes only for 10 minutes.",Golden Rock,2025-04-29,Medium,Resolved
+5,Street Light,Street light near Woraiyur bus stop flickers constantly at night.,Woraiyur,2025-12-05,Low,Resolved
+6,Garbage,Overflowing garbage bin near Woraiyur 3rd Street is attracting stray dogs and flies.,Woraiyur,2026-06-02,High,Pending
+7,Drainage,Open drain near Thiruverumbur school is a safety hazard for children.,Thiruverumbur,2026-05-29,Low,Pending
+8,Water Supply,Salty/foul smelling water is being supplied in Woraiyur Cross Street.,Woraiyur,2025-09-05,High,In Progress
+9,Road Damage,Uneven road surface on Palpannai Main Road makes it difficult for vehicles to pass.,Palpannai,2026-04-18,High,Pending
+10,Drainage,Stagnant drainage water in Ponmalai has been standing for over a week.,Ponmalai,2026-04-30,Medium,Pending
+11,Water Supply,New water connection request in Melapudur is pending for over a month.,Melapudur,2025-10-03,High,Pending
+12,Street Light,Street light near Palpannai bus stop flickers constantly at night.,Palpannai,2025-01-18,High,Resolved
+13,Drainage,Foul smell from the drainage line near Bharathi Nagar market is unbearable.,Bharathi Nagar,2025-07-11,Medium,Resolved
+14,Water Supply,Water tanker has not arrived in Thiruverumbur despite booking three days ago.,Thiruverumbur,2025-07-09,Low,Pending
+15,Water Supply,Water tanker has not arrived in Srirangam despite booking three days ago.,Srirangam,2025-04-04,High,Pending
+16,Garbage,The garbage truck has skipped our street (Woraiyur 2nd Street) for three days in a row.,Woraiyur,2025-01-26,Low,Pending
+17,Water Supply,"Water supply valve in Golden Rock is broken, entire street has no water.",Golden Rock,2025-04-13,Low,In Progress
+18,Garbage,Public dustbin at Palpannai junction is broken and waste is scattered on the road.,Palpannai,2026-03-15,High,In Progress
+19,Road Damage,"Road repair work in Melapudur was left incomplete, causing traffic issues.",Melapudur,2026-02-12,Low,In Progress
+20,Garbage,"Dead animal lying near the garbage dump in K.K. Nagar Market Street, needs urgent removal.",K.K. Nagar,2025-07-07,Medium,In Progress
+21,Street Light,Newly installed street light in Melapudur Bypass Road is not switching on.,Melapudur,2025-11-25,Low,In Progress
+22,Water Supply,No water supply in Edamalaipatti Pudur Market Street for the past 2 days.,Edamalaipatti Pudur,2026-03-13,High,Pending
+23,Drainage,Drainage cleaning has not been done in Cantonment Lake Road for months.,Cantonment,2025-02-14,Medium,In Progress
+24,Drainage,Sewage water has entered houses in Melapudur 2nd Street after the rain.,Melapudur,2025-06-25,High,Resolved
+25,Drainage,Open drain near Ponmalai school is a safety hazard for children.,Ponmalai,2025-07-18,Medium,Resolved
+26,Street Light,Multiple street lights along Thillai Nagar Main Road are non-functional after the storm.,Thillai Nagar,2026-03-10,Medium,Resolved
+27,Water Supply,Pipeline leakage near Palpannai Main Road is wasting a large amount of water daily.,Palpannai,2026-02-22,Low,Pending
+28,Drainage,Sewage water has entered houses in Gandhi Nagar 2nd Street after the rain.,Gandhi Nagar,2026-03-25,Low,Pending
+29,Road Damage,Uneven road surface on Cantonment Bypass Road makes it difficult for vehicles to pass.,Cantonment,2026-04-07,High,Pending
+30,Street Light,Multiple street lights along Ariyamangalam Main Road are non-functional after the storm.,Ariyamangalam,2026-05-07,Low,Resolved
+31,Electricity,Exposed electrical wires near Ariyamangalam Colony Road are a serious safety hazard.,Ariyamangalam,2025-03-05,Low,Resolved
+32,Road Damage,"Speed breaker on Kattur 2nd Street is broken and unmarked, risky at night.",Kattur,2026-01-28,Medium,Pending
+33,Drainage,Foul smell from the drainage line near Thillai Nagar market is unbearable.,Thillai Nagar,2026-06-27,Medium,In Progress
+34,Garbage,"Dead animal lying near the garbage dump in Palpannai Cross Street, needs urgent removal.",Palpannai,2026-01-23,Low,Resolved
+35,Road Damage,Uneven road surface on Ariyamangalam 2nd Street makes it difficult for vehicles to pass.,Ariyamangalam,2025-11-26,Low,Resolved
+36,Drainage,Choked stormwater drain in Gandhi Nagar Bypass Road floods during light rain.,Gandhi Nagar,2025-06-25,High,In Progress
+37,Drainage,Drainage cleaning has not been done in Ariyamangalam Market Street for months.,Ariyamangalam,2025-01-27,High,Resolved
+38,Garbage,No garbage collection has happened in Gandhi Nagar since last Monday.,Gandhi Nagar,2025-09-29,Medium,In Progress
+39,Electricity,Overhead electric line is sagging dangerously low on Cantonment Cross Street.,Cantonment,2025-11-15,High,Resolved
+40,Street Light,Newly installed street light in Puthur Bypass Road is not switching on.,Puthur,2025-06-08,Medium,Pending
+41,Road Damage,"Road repair work in Melapudur was left incomplete, causing traffic issues.",Melapudur,2026-03-15,Low,Resolved
+42,Garbage,Public dustbin at Golden Rock junction is broken and waste is scattered on the road.,Golden Rock,2025-04-28,High,Resolved
+43,Electricity,Frequent power cuts in Thiruverumbur 3rd Street for the past week without prior notice.,Thiruverumbur,2025-01-31,Medium,Pending
+44,Water Supply,"Water supply valve in Thillai Nagar is broken, entire street has no water.",Thillai Nagar,2026-03-19,High,In Progress
+45,Water Supply,"Irregular water supply timing in Vayalur Road, water comes only for 10 minutes.",Vayalur Road,2025-09-19,Medium,Pending
+46,Drainage,Broken underground drainage pipe in Srirangam is leaking onto the street.,Srirangam,2025-03-27,Low,In Progress
+47,Road Damage,Waterlogged potholes on Palpannai Cross Street are damaging vehicle tyres.,Palpannai,2025-04-27,Medium,Resolved
+48,Electricity,Electric pole near Thiruverumbur is leaning dangerously and needs urgent repair.,Thiruverumbur,2025-01-12,Medium,Pending
+49,Water Supply,"Water supply valve in Puthur is broken, entire street has no water.",Puthur,2025-04-06,Medium,Pending
+50,Water Supply,Water tanker has not arrived in Bharathi Nagar despite booking three days ago.,Bharathi Nagar,2025-10-30,High,In Progress
+51,Water Supply,Water tanker has not arrived in Puthur despite booking three days ago.,Puthur,2026-04-16,Medium,Resolved
+52,Road Damage,Newly laid road in Cantonment is already cracking within a few months.,Cantonment,2025-11-30,Low,In Progress
+53,Garbage,Construction debris dumped illegally on Gandhi Nagar Colony Road is blocking the footpath.,Gandhi Nagar,2026-01-20,Medium,Resolved
+54,Garbage,Overflowing garbage bin near Thillai Nagar 2nd Street is attracting stray dogs and flies.,Thillai Nagar,2025-02-06,Medium,Resolved
+55,Street Light,Street light near Anna Nagar bus stop flickers constantly at night.,Anna Nagar,2025-08-26,High,Resolved
+56,Road Damage,Uneven road surface on Bharathi Nagar Bypass Road makes it difficult for vehicles to pass.,Bharathi Nagar,2025-10-26,High,Resolved
+57,Drainage,Foul smell from the drainage line near Cantonment market is unbearable.,Cantonment,2025-03-06,High,In Progress
+58,Road Damage,Road near Gandhi Nagar junction has completely eroded after recent rains.,Gandhi Nagar,2026-04-01,Medium,In Progress
+59,Road Damage,Newly laid road in Palpannai is already cracking within a few months.,Palpannai,2026-04-02,Medium,In Progress
+60,Water Supply,Salty/foul smelling water is being supplied in Chinthamani Colony Road.,Chinthamani,2025-06-18,Medium,In Progress
+61,Road Damage,Waterlogged potholes on Melapudur 2nd Street are damaging vehicle tyres.,Melapudur,2025-12-20,Low,In Progress
+62,Drainage,Drainage cleaning has not been done in Bharathi Nagar Cross Street for months.,Bharathi Nagar,2026-02-10,Medium,Resolved
+63,Street Light,Newly installed street light in Melapudur 2nd Street is not switching on.,Melapudur,2025-06-18,Medium,Resolved
+64,Water Supply,Water tanker has not arrived in Ariyamangalam despite booking three days ago.,Ariyamangalam,2025-08-28,Medium,Pending
+65,Garbage,Public dustbin at K.K. Nagar junction is broken and waste is scattered on the road.,K.K. Nagar,2025-05-11,Low,In Progress
+66,Road Damage,Newly laid road in Ponmalai is already cracking within a few months.,Ponmalai,2026-04-14,High,Resolved
+67,Road Damage,Large pothole on Ariyamangalam Lake Road is causing accidents for two-wheelers.,Ariyamangalam,2026-01-31,Low,Pending
+68,Drainage,Choked stormwater drain in Ponmalai Colony Road floods during light rain.,Ponmalai,2025-06-03,Medium,Pending
+69,Water Supply,"Water supply valve in Ariyamangalam is broken, entire street has no water.",Ariyamangalam,2026-01-24,Medium,Pending
+70,Road Damage,Deep crack across the road in Bharathi Nagar is widening every day.,Bharathi Nagar,2025-03-22,High,Resolved
+71,Road Damage,Deep crack across the road in Palpannai is widening every day.,Palpannai,2026-03-28,High,Pending
+72,Street Light,Street light near Bharathi Nagar Colony Road has not been working for 10 days.,Bharathi Nagar,2025-01-04,High,Pending
+73,Garbage,"Dead animal lying near the garbage dump in Edamalaipatti Pudur 3rd Street, needs urgent removal.",Edamalaipatti Pudur,2026-02-15,Low,Pending
+74,Drainage,Sewage water has entered houses in Edamalaipatti Pudur Lake Road after the rain.,Edamalaipatti Pudur,2025-01-06,Low,Pending
+75,Water Supply,"Irregular water supply timing in Thillai Nagar, water comes only for 10 minutes.",Thillai Nagar,2025-01-13,Medium,In Progress
+76,Drainage,Choked stormwater drain in Anna Nagar Colony Road floods during light rain.,Anna Nagar,2025-11-16,Medium,Pending
+77,Street Light,Street light near Puthur bus stop flickers constantly at night.,Puthur,2026-06-29,Medium,Pending
+78,Garbage,"Dead animal lying near the garbage dump in K.K. Nagar Colony Road, needs urgent removal.",K.K. Nagar,2025-05-23,Low,Resolved
+79,Water Supply,"Irregular water supply timing in Edamalaipatti Pudur, water comes only for 10 minutes.",Edamalaipatti Pudur,2026-01-31,High,Resolved
+80,Garbage,Uncollected garbage near the market in Cantonment is causing a hygiene issue.,Cantonment,2025-02-09,Low,Resolved
+81,Street Light,Newly installed street light in Anna Nagar Colony Road is not switching on.,Anna Nagar,2026-01-22,High,Resolved
+82,Drainage,"Drainage cover is missing on Ponmalai 2nd Street, risk of accidents.",Ponmalai,2025-06-28,Medium,Resolved
+83,Drainage,Drainage water is overflowing onto the road in Crawford Bypass Road.,Crawford,2026-04-24,High,Pending
+84,Water Supply,"Water pressure is extremely low in Puthur, unable to fill overhead tank.",Puthur,2025-06-07,Medium,Resolved
+85,Road Damage,Uneven road surface on Srirangam Main Road makes it difficult for vehicles to pass.,Srirangam,2025-05-21,High,Pending
+86,Street Light,Multiple street lights along Anna Nagar Cross Street are non-functional after the storm.,Anna Nagar,2025-07-12,High,Resolved
+87,Road Damage,Missing manhole cover on Srirangam Main Road is extremely dangerous for commuters.,Srirangam,2025-08-24,Low,Resolved
+88,Drainage,Foul smell from the drainage line near Srirangam market is unbearable.,Srirangam,2025-03-28,High,Resolved
+89,Drainage,Sewage water has entered houses in Ponmalai Market Street after the rain.,Ponmalai,2025-01-02,High,In Progress
+90,Water Supply,"Irregular water supply timing in Gandhi Nagar, water comes only for 10 minutes.",Gandhi Nagar,2025-09-29,Low,Pending
+91,Electricity,Transformer near Vayalur Road 3rd Street is making loud noise and sparking.,Vayalur Road,2026-06-23,Low,Resolved
+92,Water Supply,No water supply in K.K. Nagar Main Road for the past 2 days.,K.K. Nagar,2026-01-02,Low,Resolved
+93,Water Supply,New water connection request in Melapudur is pending for over a month.,Melapudur,2025-06-02,Medium,Resolved
+94,Road Damage,"Road repair work in Woraiyur was left incomplete, causing traffic issues.",Woraiyur,2025-03-06,High,Pending
+95,Electricity,Overhead electric line is sagging dangerously low on Anna Nagar Market Street.,Anna Nagar,2026-06-20,Medium,Resolved
+96,Water Supply,New water connection request in Srirangam is pending for over a month.,Srirangam,2025-12-22,High,In Progress
+97,Garbage,Uncollected garbage near the market in Palpannai is causing a hygiene issue.,Palpannai,2025-07-16,Medium,Resolved
+98,Garbage,The garbage truck has skipped our street (Thillai Nagar Market Street) for three days in a row.,Thillai Nagar,2026-02-22,Medium,Resolved
+99,Garbage,The garbage truck has skipped our street (Bharathi Nagar Bypass Road) for three days in a row.,Bharathi Nagar,2025-10-13,Low,In Progress
+100,Water Supply,No water supply in Puthur Colony Road for the past 2 days.,Puthur,2025-06-11,Low,In Progress
+101,Garbage,Construction debris dumped illegally on Gandhi Nagar Market Street is blocking the footpath.,Gandhi Nagar,2026-05-04,Low,In Progress
+102,Electricity,Low voltage supply in Kattur is damaging household appliances.,Kattur,2025-01-21,High,In Progress
+103,Electricity,Transformer near Cantonment Market Street is making loud noise and sparking.,Cantonment,2026-05-14,High,In Progress
+104,Road Damage,Waterlogged potholes on Thillai Nagar 2nd Street are damaging vehicle tyres.,Thillai Nagar,2025-08-20,High,Resolved
+105,Street Light,Multiple street lights along Thiruverumbur 3rd Street are non-functional after the storm.,Thiruverumbur,2025-06-13,Medium,Resolved
+106,Street Light,Newly installed street light in Ariyamangalam Colony Road is not switching on.,Ariyamangalam,2025-11-02,Low,In Progress
+107,Garbage,Household waste is being dumped on the roadside in K.K. Nagar instead of the bin.,K.K. Nagar,2025-06-19,Medium,Resolved
+108,Road Damage,Broken footpath tiles on Gandhi Nagar Market Street are a tripping hazard for pedestrians.,Gandhi Nagar,2025-12-07,High,In Progress
+109,Street Light,Broken street light glass in Srirangam Lake Road is scattered on the footpath.,Srirangam,2025-11-24,Low,In Progress
+110,Street Light,Street light near Crawford Market Street has not been working for 10 days.,Crawford,2026-06-22,Medium,Resolved
+111,Garbage,Uncollected garbage near the market in Ponmalai is causing a hygiene issue.,Ponmalai,2026-03-17,High,Resolved
+112,Electricity,Low voltage supply in Anna Nagar is damaging household appliances.,Anna Nagar,2025-10-03,Medium,Pending
+113,Drainage,Drainage cleaning has not been done in Edamalaipatti Pudur Colony Road for months.,Edamalaipatti Pudur,2025-02-16,Low,In Progress
+114,Garbage,"Dead animal lying near the garbage dump in Vayalur Road Main Road, needs urgent removal.",Vayalur Road,2025-07-31,Medium,In Progress
+115,Road Damage,Deep crack across the road in Palpannai is widening every day.,Palpannai,2025-11-29,Medium,Pending
+116,Water Supply,"Water supply valve in Golden Rock is broken, entire street has no water.",Golden Rock,2025-09-15,Low,Pending
+117,Water Supply,"Water pressure is extremely low in Crawford, unable to fill overhead tank.",Crawford,2025-03-04,Medium,In Progress
+118,Drainage,"Drainage cover is missing on Srirangam Bypass Road, risk of accidents.",Srirangam,2026-03-24,Medium,Resolved
+119,Electricity,Electric pole near Anna Nagar is leaning dangerously and needs urgent repair.,Anna Nagar,2025-01-21,Medium,In Progress
+120,Electricity,Transformer near Srirangam Bypass Road is making loud noise and sparking.,Srirangam,2025-03-16,Medium,Resolved
+121,Water Supply,Pipeline leakage near Thiruverumbur Market Street is wasting a large amount of water daily.,Thiruverumbur,2025-03-24,Medium,Resolved
+122,Street Light,Street light timer in Ponmalai is faulty; lights stay on during the day.,Ponmalai,2025-03-16,High,Pending
+123,Road Damage,Uneven road surface on Edamalaipatti Pudur Cross Street makes it difficult for vehicles to pass.,Edamalaipatti Pudur,2025-08-23,Medium,Pending
+124,Street Light,Street light near Palpannai 2nd Street has not been working for 10 days.,Palpannai,2026-03-14,High,In Progress
+125,Water Supply,New water connection request in Gandhi Nagar is pending for over a month.,Gandhi Nagar,2025-12-08,Low,Pending
+126,Street Light,Street light near Edamalaipatti Pudur bus stop flickers constantly at night.,Edamalaipatti Pudur,2025-07-26,High,In Progress
+127,Water Supply,Contaminated/muddy water is coming from the tap in Edamalaipatti Pudur Main Road.,Edamalaipatti Pudur,2025-05-10,High,Resolved
+128,Water Supply,No water supply since the pipeline repair work started in Melapudur 2nd Street.,Melapudur,2025-06-24,Low,Pending
+129,Road Damage,Broken footpath tiles on Crawford Cross Street are a tripping hazard for pedestrians.,Crawford,2026-03-26,Low,Pending
+130,Water Supply,Salty/foul smelling water is being supplied in Vayalur Road 2nd Street.,Vayalur Road,2026-03-01,High,Pending
+131,Electricity,Low voltage supply in Golden Rock is damaging household appliances.,Golden Rock,2026-04-21,High,In Progress
+132,Electricity,Street junction box in Thillai Nagar is open with live wires exposed.,Thillai Nagar,2026-03-22,High,Pending
+133,Drainage,Foul smell from the drainage line near Vayalur Road market is unbearable.,Vayalur Road,2025-08-09,High,Pending
+134,Electricity,Transformer near Bharathi Nagar Colony Road is making loud noise and sparking.,Bharathi Nagar,2025-10-29,Low,Pending
+135,Garbage,Uncollected garbage near the market in Kattur is causing a hygiene issue.,Kattur,2025-07-16,High,Pending
+136,Drainage,Drainage cleaning has not been done in Palpannai Main Road for months.,Palpannai,2026-06-12,High,Pending
+137,Drainage,Foul smell from the drainage line near Puthur market is unbearable.,Puthur,2025-11-27,High,In Progress
+138,Garbage,Construction debris dumped illegally on Thiruverumbur 3rd Street is blocking the footpath.,Thiruverumbur,2026-05-27,Medium,Resolved
+139,Drainage,"Drainage cover is missing on Thillai Nagar Colony Road, risk of accidents.",Thillai Nagar,2025-07-21,High,Resolved
+140,Garbage,Overflowing garbage bin near Crawford Market Street is attracting stray dogs and flies.,Crawford,2025-06-08,Low,Pending
+141,Water Supply,No water supply in Anna Nagar Colony Road for the past 2 days.,Anna Nagar,2026-05-20,Low,Pending
+142,Garbage,Public dustbin at Gandhi Nagar junction is broken and waste is scattered on the road.,Gandhi Nagar,2025-08-31,Low,In Progress
+143,Garbage,Plastic waste is piling up near the Ponmalai 3rd Street community bin.,Ponmalai,2025-08-17,Low,Resolved
+144,Road Damage,"Road repair work in K.K. Nagar was left incomplete, causing traffic issues.",K.K. Nagar,2026-03-30,Low,Pending
+145,Street Light,"No streetlight coverage on Edamalaipatti Pudur Lake Road, unsafe for women at night.",Edamalaipatti Pudur,2025-06-02,High,Resolved
+146,Garbage,Uncollected garbage near the market in Palpannai is causing a hygiene issue.,Palpannai,2025-11-29,Low,Pending
+147,Garbage,No garbage collection has happened in Puthur since last Monday.,Puthur,2025-04-11,Low,In Progress
+148,Garbage,Uncollected garbage near the market in Bharathi Nagar is causing a hygiene issue.,Bharathi Nagar,2025-08-14,Medium,Pending
+149,Street Light,Street light timer in Kattur is faulty; lights stay on during the day.,Kattur,2025-09-12,Low,In Progress
+150,Drainage,Open drain near Puthur school is a safety hazard for children.,Puthur,2026-04-05,Low,Resolved
+151,Street Light,Entire stretch of Chinthamani Lake Road is dark at night due to non-functional lights.,Chinthamani,2026-06-25,High,In Progress
+152,Garbage,Public dustbin at Woraiyur junction is broken and waste is scattered on the road.,Woraiyur,2025-08-14,Medium,Resolved
+153,Garbage,Construction debris dumped illegally on Kattur Cross Street is blocking the footpath.,Kattur,2025-06-17,Medium,Pending
+154,Garbage,Overflowing garbage bin near Bharathi Nagar 3rd Street is attracting stray dogs and flies.,Bharathi Nagar,2025-09-18,Low,Resolved
+155,Water Supply,No water supply in Kattur Cross Street for the past 2 days.,Kattur,2025-08-01,High,Pending
+156,Drainage,Broken underground drainage pipe in Woraiyur is leaking onto the street.,Woraiyur,2026-03-06,Medium,In Progress
+157,Electricity,Repeated tripping of power supply in Anna Nagar disrupts daily work.,Anna Nagar,2025-12-02,Low,Pending
+158,Electricity,Frequent power cuts in Anna Nagar Main Road for the past week without prior notice.,Anna Nagar,2025-09-08,Low,In Progress
+159,Electricity,Overhead electric line is sagging dangerously low on Edamalaipatti Pudur Main Road.,Edamalaipatti Pudur,2025-03-31,Medium,In Progress
+160,Electricity,Overhead electric line is sagging dangerously low on Thiruverumbur Colony Road.,Thiruverumbur,2026-06-17,Medium,Pending
+161,Electricity,Electric pole near Puthur is leaning dangerously and needs urgent repair.,Puthur,2025-11-15,Medium,Pending
+162,Garbage,Construction debris dumped illegally on Vayalur Road 3rd Street is blocking the footpath.,Vayalur Road,2025-07-25,High,In Progress
+163,Road Damage,Newly laid road in Kattur is already cracking within a few months.,Kattur,2025-04-22,Low,Resolved
+164,Road Damage,Waterlogged potholes on Gandhi Nagar Main Road are damaging vehicle tyres.,Gandhi Nagar,2025-12-18,Low,In Progress
+165,Water Supply,Salty/foul smelling water is being supplied in K.K. Nagar Colony Road.,K.K. Nagar,2025-02-16,Low,Resolved
+166,Street Light,Entire stretch of Cantonment 2nd Street is dark at night due to non-functional lights.,Cantonment,2026-05-04,Medium,Pending
+167,Garbage,"Garbage has not been collected in Ariyamangalam Cross Street for over a week, causing bad smell.",Ariyamangalam,2025-02-02,Medium,Pending
+168,Garbage,Household waste is being dumped on the roadside in Puthur instead of the bin.,Puthur,2026-03-30,High,Resolved
+169,Garbage,No garbage collection has happened in Gandhi Nagar since last Monday.,Gandhi Nagar,2026-01-08,Medium,Pending
+170,Water Supply,Pipeline leakage near Chinthamani Colony Road is wasting a large amount of water daily.,Chinthamani,2026-03-02,Medium,In Progress
+171,Road Damage,"Speed breaker on Bharathi Nagar Lake Road is broken and unmarked, risky at night.",Bharathi Nagar,2025-02-27,High,Pending
+172,Street Light,Entire stretch of Anna Nagar Market Street is dark at night due to non-functional lights.,Anna Nagar,2025-01-17,Low,Pending
+173,Drainage,Foul smell from the drainage line near Vayalur Road market is unbearable.,Vayalur Road,2025-05-13,Medium,Resolved
+174,Drainage,Broken underground drainage pipe in Chinthamani is leaking onto the street.,Chinthamani,2026-02-04,Medium,Pending
+175,Street Light,Street light near Ariyamangalam Main Road has not been working for 10 days.,Ariyamangalam,2026-02-16,Medium,Pending
+176,Drainage,Drainage cleaning has not been done in Golden Rock 3rd Street for months.,Golden Rock,2026-03-03,High,Resolved
+177,Electricity,Low voltage supply in Bharathi Nagar is damaging household appliances.,Bharathi Nagar,2025-03-28,High,Resolved
+178,Drainage,Broken underground drainage pipe in Crawford is leaking onto the street.,Crawford,2025-07-06,Low,In Progress
+179,Street Light,Street light timer in Vayalur Road is faulty; lights stay on during the day.,Vayalur Road,2025-11-04,Medium,Pending
+180,Road Damage,Uneven road surface on Ponmalai 3rd Street makes it difficult for vehicles to pass.,Ponmalai,2025-09-16,High,Pending
+181,Drainage,Foul smell from the drainage line near Chinthamani market is unbearable.,Chinthamani,2026-03-24,Low,Pending
+182,Drainage,Open drain near Melapudur school is a safety hazard for children.,Melapudur,2025-07-11,High,Resolved
+183,Water Supply,Salty/foul smelling water is being supplied in Woraiyur Market Street.,Woraiyur,2026-04-08,Low,In Progress
+184,Drainage,Broken underground drainage pipe in Thiruverumbur is leaking onto the street.,Thiruverumbur,2026-02-25,Medium,Resolved
+185,Garbage,Plastic waste is piling up near the Kattur Bypass Road community bin.,Kattur,2025-05-08,High,In Progress
+186,Street Light,"Street light pole in Puthur is damaged and sparking, safety concern.",Puthur,2026-03-02,High,Resolved
+187,Road Damage,Deep crack across the road in Kattur is widening every day.,Kattur,2025-12-01,Low,Resolved
+188,Electricity,Frequent power cuts in Kattur 3rd Street for the past week without prior notice.,Kattur,2025-10-30,Medium,In Progress
+189,Electricity,"Electricity meter in Crawford Bypass Road is malfunctioning, incorrect readings.",Crawford,2026-02-02,Medium,Pending
+190,Street Light,Broken street light glass in Cantonment Colony Road is scattered on the footpath.,Cantonment,2025-02-08,Low,In Progress
+191,Road Damage,Road near Chinthamani junction has completely eroded after recent rains.,Chinthamani,2025-06-09,High,In Progress
+192,Garbage,Construction debris dumped illegally on Woraiyur Lake Road is blocking the footpath.,Woraiyur,2025-09-20,Medium,Pending
+193,Garbage,Uncollected garbage near the market in Vayalur Road is causing a hygiene issue.,Vayalur Road,2025-01-30,Medium,In Progress
+194,Drainage,Drainage water is overflowing onto the road in Vayalur Road Main Road.,Vayalur Road,2026-04-16,Low,In Progress
+195,Street Light,Newly installed street light in Woraiyur Colony Road is not switching on.,Woraiyur,2025-12-29,Medium,In Progress
+196,Drainage,Broken underground drainage pipe in Crawford is leaking onto the street.,Crawford,2026-01-31,Low,In Progress
+197,Electricity,Power has not been restored in Ponmalai since yesterday's outage.,Ponmalai,2025-10-15,Medium,Resolved
+198,Drainage,Foul smell from the drainage line near Thillai Nagar market is unbearable.,Thillai Nagar,2025-03-29,Low,In Progress
+199,Electricity,Transformer near Vayalur Road Lake Road is making loud noise and sparking.,Vayalur Road,2026-01-23,Medium,Resolved
+200,Electricity,Power has not been restored in Thillai Nagar since yesterday's outage.,Thillai Nagar,2026-02-02,High,In Progress
+201,Electricity,Electric pole near Thillai Nagar is leaning dangerously and needs urgent repair.,Thillai Nagar,2025-06-24,Medium,Pending
+202,Electricity,Electric pole near Vayalur Road is leaning dangerously and needs urgent repair.,Vayalur Road,2025-06-01,High,In Progress
+203,Garbage,No garbage collection has happened in Palpannai since last Monday.,Palpannai,2025-06-08,Low,In Progress
+204,Road Damage,Broken footpath tiles on Ariyamangalam Cross Street are a tripping hazard for pedestrians.,Ariyamangalam,2025-03-26,Medium,Pending
+205,Electricity,Electric pole near Thillai Nagar is leaning dangerously and needs urgent repair.,Thillai Nagar,2025-11-08,High,Resolved
+206,Road Damage,Missing manhole cover on Bharathi Nagar Market Street is extremely dangerous for commuters.,Bharathi Nagar,2025-04-27,Medium,In Progress
+207,Electricity,Overhead electric line is sagging dangerously low on Gandhi Nagar Market Street.,Gandhi Nagar,2026-01-03,Medium,Resolved
+208,Road Damage,"Speed breaker on Woraiyur 2nd Street is broken and unmarked, risky at night.",Woraiyur,2025-11-06,Low,In Progress
+209,Drainage,Drainage water is overflowing onto the road in Kattur 2nd Street.,Kattur,2026-04-06,Medium,In Progress
+210,Drainage,Foul smell from the drainage line near Crawford market is unbearable.,Crawford,2026-03-01,Low,In Progress
+211,Electricity,Exposed electrical wires near Thillai Nagar Colony Road are a serious safety hazard.,Thillai Nagar,2025-01-29,Medium,Pending
+212,Water Supply,New water connection request in Woraiyur is pending for over a month.,Woraiyur,2025-04-28,High,Pending
+213,Garbage,Household waste is being dumped on the roadside in Palpannai instead of the bin.,Palpannai,2025-06-17,Medium,In Progress
+214,Water Supply,No water supply since the pipeline repair work started in Cantonment 3rd Street.,Cantonment,2025-05-16,High,In Progress
+215,Street Light,Street light near Woraiyur park has been off since last month.,Woraiyur,2025-05-24,High,In Progress
+216,Drainage,Drainage cleaning has not been done in K.K. Nagar Bypass Road for months.,K.K. Nagar,2025-11-14,High,Resolved
+217,Drainage,"Drainage cover is missing on K.K. Nagar Colony Road, risk of accidents.",K.K. Nagar,2026-07-01,Low,Resolved
+218,Garbage,Public dustbin at Ariyamangalam junction is broken and waste is scattered on the road.,Ariyamangalam,2026-05-13,Low,Resolved
+219,Electricity,Low voltage supply in Ariyamangalam is damaging household appliances.,Ariyamangalam,2026-07-01,High,Pending
+220,Street Light,"No streetlight coverage on Ponmalai Market Street, unsafe for women at night.",Ponmalai,2026-04-23,High,Resolved
+221,Street Light,"No streetlight coverage on Kattur 3rd Street, unsafe for women at night.",Kattur,2025-08-13,Low,In Progress
+222,Drainage,Drainage cleaning has not been done in Bharathi Nagar 2nd Street for months.,Bharathi Nagar,2025-06-16,Low,Resolved
+223,Water Supply,New water connection request in Golden Rock is pending for over a month.,Golden Rock,2025-09-09,Low,In Progress
+224,Electricity,Low voltage supply in Melapudur is damaging household appliances.,Melapudur,2026-01-03,High,Pending
+225,Garbage,The garbage truck has skipped our street (Ariyamangalam Cross Street) for three days in a row.,Ariyamangalam,2025-12-13,Low,Resolved
+226,Water Supply,"Irregular water supply timing in Thiruverumbur, water comes only for 10 minutes.",Thiruverumbur,2025-06-14,Medium,In Progress
+227,Electricity,"Electricity meter in Woraiyur 3rd Street is malfunctioning, incorrect readings.",Woraiyur,2025-06-04,Low,In Progress
+228,Road Damage,Uneven road surface on Vayalur Road Colony Road makes it difficult for vehicles to pass.,Vayalur Road,2026-03-08,Medium,In Progress
+229,Electricity,Repeated tripping of power supply in Ponmalai disrupts daily work.,Ponmalai,2026-04-21,Medium,Resolved
+230,Garbage,Plastic waste is piling up near the Woraiyur Colony Road community bin.,Woraiyur,2025-03-15,High,Resolved
+231,Street Light,Street light near Kattur Lake Road has not been working for 10 days.,Kattur,2026-05-15,Low,Pending
+232,Electricity,Transformer near Puthur Main Road is making loud noise and sparking.,Puthur,2025-09-27,Medium,In Progress
+233,Drainage,Sewage water has entered houses in Ariyamangalam Cross Street after the rain.,Ariyamangalam,2025-05-30,Medium,Pending
+234,Garbage,Household waste is being dumped on the roadside in Gandhi Nagar instead of the bin.,Gandhi Nagar,2026-03-12,Low,Pending
+235,Drainage,Stagnant drainage water in Ariyamangalam has been standing for over a week.,Ariyamangalam,2025-12-07,Low,Pending
+236,Street Light,Newly installed street light in Ariyamangalam Main Road is not switching on.,Ariyamangalam,2025-04-13,Medium,In Progress
+237,Water Supply,"Irregular water supply timing in Woraiyur, water comes only for 10 minutes.",Woraiyur,2026-04-01,Low,In Progress
+238,Drainage,"Drainage cover is missing on Ariyamangalam Colony Road, risk of accidents.",Ariyamangalam,2025-05-05,Low,Pending
+239,Water Supply,"Water supply valve in Thiruverumbur is broken, entire street has no water.",Thiruverumbur,2026-05-15,Low,In Progress
+240,Electricity,"Electricity meter in Cantonment Lake Road is malfunctioning, incorrect readings.",Cantonment,2025-12-25,Medium,Pending
+241,Garbage,"Garbage has not been collected in Bharathi Nagar Main Road for over a week, causing bad smell.",Bharathi Nagar,2025-03-27,High,In Progress
+242,Electricity,Electric pole near Thillai Nagar is leaning dangerously and needs urgent repair.,Thillai Nagar,2026-02-28,High,Pending
+243,Drainage,Sewage water has entered houses in Golden Rock Colony Road after the rain.,Golden Rock,2025-12-02,Low,Pending
+244,Street Light,Street light near Woraiyur bus stop flickers constantly at night.,Woraiyur,2025-11-21,Medium,In Progress
+245,Road Damage,Large pothole on Ariyamangalam Colony Road is causing accidents for two-wheelers.,Ariyamangalam,2025-02-03,Medium,Pending
+246,Garbage,Plastic waste is piling up near the Ariyamangalam Colony Road community bin.,Ariyamangalam,2026-02-10,Low,Resolved
+247,Water Supply,"Water supply valve in Srirangam is broken, entire street has no water.",Srirangam,2025-09-03,High,Pending
+248,Electricity,Electric pole near Gandhi Nagar is leaning dangerously and needs urgent repair.,Gandhi Nagar,2026-01-17,Medium,Resolved
+249,Electricity,Power has not been restored in Thillai Nagar since yesterday's outage.,Thillai Nagar,2025-12-22,Medium,Pending
+250,Garbage,Public dustbin at Anna Nagar junction is broken and waste is scattered on the road.,Anna Nagar,2025-08-18,High,Pending
+251,Street Light,Entire stretch of Palpannai 2nd Street is dark at night due to non-functional lights.,Palpannai,2025-12-23,Low,Pending
+252,Street Light,Street light near Melapudur bus stop flickers constantly at night.,Melapudur,2025-06-29,High,Resolved
+253,Road Damage,Road near Crawford junction has completely eroded after recent rains.,Crawford,2025-03-26,Medium,Resolved
+254,Street Light,Street light near Golden Rock Market Street has not been working for 10 days.,Golden Rock,2025-10-30,Low,Pending
+255,Garbage,Household waste is being dumped on the roadside in Melapudur instead of the bin.,Melapudur,2025-09-06,Medium,In Progress
+256,Street Light,Newly installed street light in Kattur 3rd Street is not switching on.,Kattur,2026-02-11,Low,Resolved
+257,Street Light,"Street light pole in Gandhi Nagar is damaged and sparking, safety concern.",Gandhi Nagar,2026-06-02,Medium,In Progress
+258,Street Light,Broken street light glass in Ponmalai Main Road is scattered on the footpath.,Ponmalai,2025-04-21,Medium,Pending
+259,Road Damage,"Speed breaker on Vayalur Road 2nd Street is broken and unmarked, risky at night.",Vayalur Road,2026-01-25,Low,Resolved
+260,Water Supply,Water tanker has not arrived in Bharathi Nagar despite booking three days ago.,Bharathi Nagar,2025-04-03,Medium,Pending
+261,Water Supply,No water supply since the pipeline repair work started in Edamalaipatti Pudur Cross Street.,Edamalaipatti Pudur,2026-04-27,Medium,In Progress
+262,Electricity,Low voltage supply in Ponmalai is damaging household appliances.,Ponmalai,2025-11-19,Medium,Resolved
+263,Drainage,"Drainage cover is missing on Anna Nagar Lake Road, risk of accidents.",Anna Nagar,2026-01-16,High,Pending
+264,Road Damage,Road near Golden Rock junction has completely eroded after recent rains.,Golden Rock,2026-06-25,High,In Progress
+265,Water Supply,"Water pressure is extremely low in Vayalur Road, unable to fill overhead tank.",Vayalur Road,2026-04-16,High,Pending
+266,Garbage,Construction debris dumped illegally on Melapudur Bypass Road is blocking the footpath.,Melapudur,2025-09-25,Low,Resolved
+267,Street Light,Street light near Chinthamani park has been off since last month.,Chinthamani,2025-05-18,High,In Progress
+268,Road Damage,Uneven road surface on Edamalaipatti Pudur Cross Street makes it difficult for vehicles to pass.,Edamalaipatti Pudur,2025-01-18,High,Pending
+269,Drainage,Broken underground drainage pipe in Vayalur Road is leaking onto the street.,Vayalur Road,2025-07-24,High,Pending
+270,Road Damage,Road near Ponmalai junction has completely eroded after recent rains.,Ponmalai,2025-03-29,Low,Resolved
+271,Electricity,"Electricity meter in Gandhi Nagar Market Street is malfunctioning, incorrect readings.",Gandhi Nagar,2025-06-18,High,In Progress
+272,Drainage,Blocked drainage near Anna Nagar is causing mosquito breeding and bad odour.,Anna Nagar,2025-06-11,High,Pending
+273,Drainage,Choked stormwater drain in Cantonment Lake Road floods during light rain.,Cantonment,2025-12-26,Medium,Pending
+274,Electricity,Overhead electric line is sagging dangerously low on Kattur Market Street.,Kattur,2025-04-15,Low,Resolved
+275,Water Supply,Contaminated/muddy water is coming from the tap in Srirangam Main Road.,Srirangam,2025-11-13,Medium,Pending
+276,Electricity,Electric pole near Palpannai is leaning dangerously and needs urgent repair.,Palpannai,2025-12-13,High,Resolved
+277,Street Light,Street light near Cantonment Market Street has not been working for 10 days.,Cantonment,2025-06-30,Low,In Progress
+278,Road Damage,Road near Gandhi Nagar junction has completely eroded after recent rains.,Gandhi Nagar,2025-09-22,Low,Resolved
+279,Drainage,Choked stormwater drain in Vayalur Road Bypass Road floods during light rain.,Vayalur Road,2025-02-23,High,Resolved
+280,Water Supply,Pipeline leakage near Palpannai 2nd Street is wasting a large amount of water daily.,Palpannai,2025-10-22,Medium,Resolved
+281,Electricity,Exposed electrical wires near Golden Rock 2nd Street are a serious safety hazard.,Golden Rock,2025-02-01,Medium,In Progress
+282,Garbage,Overflowing garbage bin near Gandhi Nagar Colony Road is attracting stray dogs and flies.,Gandhi Nagar,2025-09-08,Low,Pending
+283,Road Damage,Waterlogged potholes on Kattur 3rd Street are damaging vehicle tyres.,Kattur,2026-04-14,Low,Pending
+284,Road Damage,"Speed breaker on Melapudur Cross Street is broken and unmarked, risky at night.",Melapudur,2025-11-14,High,In Progress
+285,Water Supply,New water connection request in Anna Nagar is pending for over a month.,Anna Nagar,2026-04-15,High,Pending
+286,Electricity,Exposed electrical wires near Palpannai Bypass Road are a serious safety hazard.,Palpannai,2026-02-25,Medium,In Progress
+287,Garbage,Construction debris dumped illegally on Melapudur Cross Street is blocking the footpath.,Melapudur,2025-03-17,High,Pending
+288,Garbage,"Garbage has not been collected in Ariyamangalam Colony Road for over a week, causing bad smell.",Ariyamangalam,2025-03-23,Low,Pending
+289,Street Light,Street light near Palpannai park has been off since last month.,Palpannai,2025-01-13,Low,Resolved
+290,Road Damage,Road near K.K. Nagar junction has completely eroded after recent rains.,K.K. Nagar,2025-07-11,Medium,In Progress
+291,Water Supply,Salty/foul smelling water is being supplied in K.K. Nagar Cross Street.,K.K. Nagar,2025-10-10,Medium,In Progress
+292,Electricity,Street junction box in Melapudur is open with live wires exposed.,Melapudur,2025-12-11,Medium,In Progress
+293,Drainage,Drainage cleaning has not been done in Palpannai Main Road for months.,Palpannai,2026-04-06,High,Resolved
+294,Road Damage,"Road repair work in Vayalur Road was left incomplete, causing traffic issues.",Vayalur Road,2025-04-08,Low,Pending
+295,Road Damage,Deep crack across the road in K.K. Nagar is widening every day.,K.K. Nagar,2025-10-11,High,Pending
+296,Electricity,"Electricity meter in Anna Nagar 2nd Street is malfunctioning, incorrect readings.",Anna Nagar,2026-03-20,High,In Progress
+297,Road Damage,"Road repair work in Chinthamani was left incomplete, causing traffic issues.",Chinthamani,2025-06-13,Medium,Resolved
+298,Drainage,Stagnant drainage water in Vayalur Road has been standing for over a week.,Vayalur Road,2025-10-18,High,Resolved
+299,Garbage,The garbage truck has skipped our street (Thillai Nagar Lake Road) for three days in a row.,Thillai Nagar,2025-04-11,Low,Resolved
+300,Street Light,"No streetlight coverage on Cantonment 2nd Street, unsafe for women at night.",Cantonment,2026-05-16,Low,Resolved
+301,Water Supply,Contaminated/muddy water is coming from the tap in Palpannai Colony Road.,Palpannai,2025-06-28,Low,Resolved
+302,Water Supply,Pipeline leakage near Melapudur Market Street is wasting a large amount of water daily.,Melapudur,2026-01-16,Low,Resolved
+303,Drainage,Stagnant drainage water in K.K. Nagar has been standing for over a week.,K.K. Nagar,2025-02-09,Medium,In Progress
+304,Road Damage,Large pothole on Srirangam 2nd Street is causing accidents for two-wheelers.,Srirangam,2026-03-28,Medium,Pending
+305,Drainage,Broken underground drainage pipe in Kattur is leaking onto the street.,Kattur,2026-01-08,Medium,In Progress
+306,Road Damage,"Speed breaker on Srirangam 3rd Street is broken and unmarked, risky at night.",Srirangam,2025-11-01,Low,In Progress
+307,Water Supply,Contaminated/muddy water is coming from the tap in Golden Rock 2nd Street.,Golden Rock,2025-03-15,Low,Pending
+308,Electricity,Transformer near Thiruverumbur Main Road is making loud noise and sparking.,Thiruverumbur,2025-01-23,Low,Resolved
+309,Water Supply,Salty/foul smelling water is being supplied in Crawford Market Street.,Crawford,2025-12-05,Medium,Resolved
+310,Water Supply,"Water supply valve in Crawford is broken, entire street has no water.",Crawford,2026-01-22,Medium,In Progress
+311,Drainage,Sewage water has entered houses in Puthur Cross Street after the rain.,Puthur,2026-04-26,Medium,Resolved
+312,Street Light,"No streetlight coverage on Thillai Nagar Lake Road, unsafe for women at night.",Thillai Nagar,2026-01-15,Low,Resolved
+313,Garbage,"Dead animal lying near the garbage dump in Kattur Cross Street, needs urgent removal.",Kattur,2026-04-12,Medium,Resolved
+314,Drainage,"Drainage cover is missing on Puthur Lake Road, risk of accidents.",Puthur,2025-02-08,Low,In Progress
+315,Drainage,Open drain near Chinthamani school is a safety hazard for children.,Chinthamani,2025-03-15,Medium,Resolved
+316,Drainage,Sewage water has entered houses in Anna Nagar 3rd Street after the rain.,Anna Nagar,2026-03-25,Medium,Resolved
+317,Garbage,Plastic waste is piling up near the Puthur Lake Road community bin.,Puthur,2026-03-29,High,Pending
+318,Garbage,Household waste is being dumped on the roadside in Woraiyur instead of the bin.,Woraiyur,2025-04-15,Low,In Progress
+319,Garbage,Construction debris dumped illegally on Thillai Nagar Cross Street is blocking the footpath.,Thillai Nagar,2026-05-13,Low,Resolved
+320,Street Light,"Street light pole in Thiruverumbur is damaged and sparking, safety concern.",Thiruverumbur,2025-06-16,Medium,Resolved
+321,Drainage,Choked stormwater drain in Kattur Lake Road floods during light rain.,Kattur,2025-03-06,Low,In Progress
+322,Street Light,Street light near Woraiyur 3rd Street has not been working for 10 days.,Woraiyur,2025-05-01,High,In Progress
+323,Street Light,Street light timer in Edamalaipatti Pudur is faulty; lights stay on during the day.,Edamalaipatti Pudur,2025-07-24,Medium,In Progress
+324,Water Supply,New water connection request in Bharathi Nagar is pending for over a month.,Bharathi Nagar,2026-05-25,High,Pending
+325,Street Light,Street light near Vayalur Road 2nd Street has not been working for 10 days.,Vayalur Road,2025-08-25,Low,Resolved
+326,Water Supply,Water tanker has not arrived in Crawford despite booking three days ago.,Crawford,2025-11-06,Low,Resolved
+327,Drainage,Blocked drainage near Crawford is causing mosquito breeding and bad odour.,Crawford,2025-03-03,High,Resolved
+328,Road Damage,Newly laid road in Chinthamani is already cracking within a few months.,Chinthamani,2026-02-23,High,In Progress
+329,Road Damage,Newly laid road in Palpannai is already cracking within a few months.,Palpannai,2025-04-16,Low,Pending
+330,Road Damage,Missing manhole cover on Edamalaipatti Pudur Colony Road is extremely dangerous for commuters.,Edamalaipatti Pudur,2025-02-17,Low,Resolved
+331,Electricity,Street junction box in Anna Nagar is open with live wires exposed.,Anna Nagar,2025-05-04,Medium,Pending
+332,Road Damage,Broken footpath tiles on Melapudur Colony Road are a tripping hazard for pedestrians.,Melapudur,2026-06-11,High,Pending
+333,Water Supply,No water supply since the pipeline repair work started in Cantonment Colony Road.,Cantonment,2026-05-11,Medium,In Progress
+334,Electricity,Low voltage supply in Golden Rock is damaging household appliances.,Golden Rock,2026-06-10,Low,Resolved
+335,Drainage,Drainage water is overflowing onto the road in Ponmalai 3rd Street.,Ponmalai,2025-02-14,Low,Pending
+336,Drainage,"Drainage cover is missing on Srirangam Main Road, risk of accidents.",Srirangam,2025-12-11,High,Pending
+337,Street Light,"No streetlight coverage on Ariyamangalam Market Street, unsafe for women at night.",Ariyamangalam,2025-09-09,Medium,Resolved
+338,Road Damage,Uneven road surface on Melapudur 3rd Street makes it difficult for vehicles to pass.,Melapudur,2026-02-03,High,Resolved
+339,Street Light,Broken street light glass in Ariyamangalam 2nd Street is scattered on the footpath.,Ariyamangalam,2025-04-10,Low,In Progress
+340,Water Supply,Pipeline leakage near Thillai Nagar 3rd Street is wasting a large amount of water daily.,Thillai Nagar,2025-05-02,High,In Progress
+341,Garbage,Public dustbin at Ariyamangalam junction is broken and waste is scattered on the road.,Ariyamangalam,2025-01-08,Low,Resolved
+342,Road Damage,"Road repair work in Palpannai was left incomplete, causing traffic issues.",Palpannai,2025-01-28,High,In Progress
+343,Drainage,Open drain near Srirangam school is a safety hazard for children.,Srirangam,2026-01-12,Low,In Progress
+344,Water Supply,"Irregular water supply timing in Chinthamani, water comes only for 10 minutes.",Chinthamani,2026-04-08,High,Pending
+345,Street Light,Street light near Ponmalai Cross Street has not been working for 10 days.,Ponmalai,2025-12-21,Medium,Resolved
+346,Drainage,Sewage water has entered houses in Kattur 2nd Street after the rain.,Kattur,2025-03-19,Low,Resolved
+347,Street Light,"Street light pole in Vayalur Road is damaged and sparking, safety concern.",Vayalur Road,2026-02-25,High,Resolved
+348,Road Damage,Large pothole on Kattur 2nd Street is causing accidents for two-wheelers.,Kattur,2026-03-27,Medium,Resolved
+349,Electricity,Power has not been restored in Gandhi Nagar since yesterday's outage.,Gandhi Nagar,2025-03-31,Medium,Resolved
+350,Road Damage,Road near K.K. Nagar junction has completely eroded after recent rains.,K.K. Nagar,2026-01-29,Medium,In Progress
+351,Street Light,Street light timer in Chinthamani is faulty; lights stay on during the day.,Chinthamani,2025-05-01,High,In Progress
+352,Road Damage,Road near Gandhi Nagar junction has completely eroded after recent rains.,Gandhi Nagar,2025-04-22,High,Pending
+353,Drainage,Foul smell from the drainage line near Woraiyur market is unbearable.,Woraiyur,2026-05-18,Low,Pending
+354,Garbage,The garbage truck has skipped our street (Golden Rock Bypass Road) for three days in a row.,Golden Rock,2025-11-24,High,Pending
+355,Street Light,Newly installed street light in Anna Nagar Cross Street is not switching on.,Anna Nagar,2026-04-22,Medium,Pending
+356,Street Light,Street light near Bharathi Nagar park has been off since last month.,Bharathi Nagar,2025-02-16,Low,Pending
+357,Drainage,Choked stormwater drain in Crawford Colony Road floods during light rain.,Crawford,2025-01-17,Medium,Pending
+358,Drainage,Blocked drainage near Chinthamani is causing mosquito breeding and bad odour.,Chinthamani,2025-12-24,Medium,Resolved
+359,Electricity,Transformer near Woraiyur 3rd Street is making loud noise and sparking.,Woraiyur,2025-05-10,Low,In Progress
+360,Road Damage,"Speed breaker on Puthur 3rd Street is broken and unmarked, risky at night.",Puthur,2026-02-19,High,Pending
+361,Road Damage,"Road repair work in Melapudur was left incomplete, causing traffic issues.",Melapudur,2026-01-25,Low,Pending
+362,Garbage,Public dustbin at Edamalaipatti Pudur junction is broken and waste is scattered on the road.,Edamalaipatti Pudur,2025-03-28,Medium,Resolved
+363,Garbage,No garbage collection has happened in Crawford since last Monday.,Crawford,2026-06-14,Medium,Pending
+364,Street Light,Entire stretch of Woraiyur Main Road is dark at night due to non-functional lights.,Woraiyur,2026-03-28,Medium,In Progress
+365,Garbage,No garbage collection has happened in Anna Nagar since last Monday.,Anna Nagar,2025-08-16,Low,In Progress
+366,Garbage,Household waste is being dumped on the roadside in Golden Rock instead of the bin.,Golden Rock,2025-08-04,High,In Progress
+367,Garbage,Construction debris dumped illegally on Woraiyur Market Street is blocking the footpath.,Woraiyur,2026-05-22,Medium,Pending
+368,Electricity,Street junction box in K.K. Nagar is open with live wires exposed.,K.K. Nagar,2025-06-27,Low,Pending
+369,Road Damage,Waterlogged potholes on Ponmalai Cross Street are damaging vehicle tyres.,Ponmalai,2026-02-23,High,In Progress
+370,Drainage,Stagnant drainage water in Thillai Nagar has been standing for over a week.,Thillai Nagar,2025-04-19,Low,In Progress
+371,Electricity,Exposed electrical wires near Srirangam Cross Street are a serious safety hazard.,Srirangam,2025-08-22,High,Resolved
+372,Water Supply,Water tanker has not arrived in Palpannai despite booking three days ago.,Palpannai,2026-02-02,Medium,In Progress
+373,Water Supply,New water connection request in Edamalaipatti Pudur is pending for over a month.,Edamalaipatti Pudur,2025-02-03,Low,In Progress
+374,Street Light,"Street light pole in Chinthamani is damaged and sparking, safety concern.",Chinthamani,2026-02-28,Medium,In Progress
+375,Road Damage,Uneven road surface on Edamalaipatti Pudur Bypass Road makes it difficult for vehicles to pass.,Edamalaipatti Pudur,2026-06-20,High,Resolved
+376,Electricity,Transformer near Srirangam Main Road is making loud noise and sparking.,Srirangam,2025-03-05,Low,Pending
+377,Road Damage,"Speed breaker on K.K. Nagar Market Street is broken and unmarked, risky at night.",K.K. Nagar,2025-11-21,Medium,Pending
+378,Garbage,Household waste is being dumped on the roadside in K.K. Nagar instead of the bin.,K.K. Nagar,2026-01-28,High,Pending
+379,Water Supply,"Irregular water supply timing in Crawford, water comes only for 10 minutes.",Crawford,2025-05-30,Low,Resolved
+380,Water Supply,Pipeline leakage near Thiruverumbur Cross Street is wasting a large amount of water daily.,Thiruverumbur,2026-04-25,Low,Pending
+381,Garbage,Household waste is being dumped on the roadside in Thillai Nagar instead of the bin.,Thillai Nagar,2025-08-29,Medium,Pending
+382,Street Light,Multiple street lights along Kattur Cross Street are non-functional after the storm.,Kattur,2025-12-10,Medium,In Progress
+383,Road Damage,Uneven road surface on Anna Nagar Market Street makes it difficult for vehicles to pass.,Anna Nagar,2025-11-09,High,Resolved
+384,Road Damage,Deep crack across the road in Puthur is widening every day.,Puthur,2026-03-17,High,Resolved
+385,Drainage,Drainage cleaning has not been done in Chinthamani 3rd Street for months.,Chinthamani,2025-06-08,High,In Progress
+386,Road Damage,Uneven road surface on Thillai Nagar Lake Road makes it difficult for vehicles to pass.,Thillai Nagar,2026-03-21,High,In Progress
+387,Electricity,Transformer near Anna Nagar Cross Street is making loud noise and sparking.,Anna Nagar,2025-12-06,Low,Pending
+388,Garbage,Public dustbin at Puthur junction is broken and waste is scattered on the road.,Puthur,2025-09-13,Low,In Progress
+389,Street Light,"Street light pole in Puthur is damaged and sparking, safety concern.",Puthur,2026-05-11,Medium,Pending
+390,Electricity,Low voltage supply in Crawford is damaging household appliances.,Crawford,2026-06-10,Low,Resolved
+391,Electricity,Street junction box in Edamalaipatti Pudur is open with live wires exposed.,Edamalaipatti Pudur,2025-05-26,High,In Progress
+392,Road Damage,"Speed breaker on Bharathi Nagar Cross Street is broken and unmarked, risky at night.",Bharathi Nagar,2026-04-05,High,In Progress
+393,Garbage,"Dead animal lying near the garbage dump in Gandhi Nagar Colony Road, needs urgent removal.",Gandhi Nagar,2026-05-28,Low,Resolved
+394,Street Light,Broken street light glass in Palpannai 3rd Street is scattered on the footpath.,Palpannai,2025-09-11,High,Resolved
+395,Garbage,Construction debris dumped illegally on Ariyamangalam Main Road is blocking the footpath.,Ariyamangalam,2025-03-25,Medium,Resolved
+396,Electricity,Electric pole near Anna Nagar is leaning dangerously and needs urgent repair.,Anna Nagar,2026-05-18,Low,Pending
+397,Street Light,Broken street light glass in Golden Rock 2nd Street is scattered on the footpath.,Golden Rock,2025-01-15,High,In Progress
+398,Water Supply,"Irregular water supply timing in Puthur, water comes only for 10 minutes.",Puthur,2026-03-02,High,Pending
+399,Water Supply,Water tanker has not arrived in Puthur despite booking three days ago.,Puthur,2026-01-28,Low,Resolved
+400,Street Light,"No streetlight coverage on Palpannai Bypass Road, unsafe for women at night.",Palpannai,2025-05-28,Low,Resolved
+401,Electricity,Power has not been restored in Puthur since yesterday's outage.,Puthur,2025-08-12,Medium,In Progress
+402,Water Supply,Contaminated/muddy water is coming from the tap in Edamalaipatti Pudur Lake Road.,Edamalaipatti Pudur,2025-10-12,Low,Resolved
+403,Street Light,Street light timer in Cantonment is faulty; lights stay on during the day.,Cantonment,2025-04-09,High,Pending
+404,Garbage,Public dustbin at Vayalur Road junction is broken and waste is scattered on the road.,Vayalur Road,2025-06-12,High,In Progress
+405,Road Damage,"Speed breaker on Woraiyur Market Street is broken and unmarked, risky at night.",Woraiyur,2025-08-05,Medium,In Progress
+406,Garbage,Public dustbin at Chinthamani junction is broken and waste is scattered on the road.,Chinthamani,2025-11-28,Medium,Pending
+407,Drainage,Drainage cleaning has not been done in Anna Nagar Main Road for months.,Anna Nagar,2025-07-29,Medium,Pending
+408,Water Supply,"Water supply valve in Ponmalai is broken, entire street has no water.",Ponmalai,2025-11-09,High,Resolved
+409,Street Light,Entire stretch of Crawford Market Street is dark at night due to non-functional lights.,Crawford,2026-04-16,High,Pending
+410,Road Damage,Broken footpath tiles on Crawford Lake Road are a tripping hazard for pedestrians.,Crawford,2026-05-15,Medium,Resolved
+411,Water Supply,Pipeline leakage near Thiruverumbur Colony Road is wasting a large amount of water daily.,Thiruverumbur,2025-10-10,High,Pending
+412,Electricity,Exposed electrical wires near Cantonment Bypass Road are a serious safety hazard.,Cantonment,2025-05-10,High,In Progress
+413,Electricity,Low voltage supply in Thillai Nagar is damaging household appliances.,Thillai Nagar,2025-09-20,Low,Resolved
+414,Road Damage,"Speed breaker on Crawford Cross Street is broken and unmarked, risky at night.",Crawford,2025-07-24,High,Resolved
+415,Street Light,Street light near K.K. Nagar park has been off since last month.,K.K. Nagar,2025-09-06,Medium,Pending
+416,Street Light,Broken street light glass in Srirangam 2nd Street is scattered on the footpath.,Srirangam,2025-01-06,High,Pending
+417,Electricity,Electric pole near Gandhi Nagar is leaning dangerously and needs urgent repair.,Gandhi Nagar,2026-03-16,Medium,Resolved
+418,Road Damage,Broken footpath tiles on Vayalur Road Market Street are a tripping hazard for pedestrians.,Vayalur Road,2025-03-28,High,Resolved
+419,Street Light,Street light timer in Crawford is faulty; lights stay on during the day.,Crawford,2026-04-05,Medium,In Progress
+420,Road Damage,"Speed breaker on K.K. Nagar 2nd Street is broken and unmarked, risky at night.",K.K. Nagar,2025-03-12,High,Resolved
+421,Garbage,Public dustbin at Ponmalai junction is broken and waste is scattered on the road.,Ponmalai,2025-12-01,Medium,Resolved
+422,Drainage,"Drainage cover is missing on Golden Rock Main Road, risk of accidents.",Golden Rock,2025-12-27,High,Pending
+423,Street Light,Street light near Crawford bus stop flickers constantly at night.,Crawford,2026-01-10,Low,In Progress
+424,Drainage,Stagnant drainage water in Palpannai has been standing for over a week.,Palpannai,2025-06-29,High,In Progress
+425,Garbage,Household waste is being dumped on the roadside in Golden Rock instead of the bin.,Golden Rock,2025-04-20,High,Resolved
+426,Garbage,The garbage truck has skipped our street (Anna Nagar Main Road) for three days in a row.,Anna Nagar,2025-11-18,Low,Pending
+427,Electricity,Frequent power cuts in Melapudur Market Street for the past week without prior notice.,Melapudur,2025-02-03,Low,Resolved
+428,Garbage,Overflowing garbage bin near Crawford Bypass Road is attracting stray dogs and flies.,Crawford,2025-09-28,Low,Resolved
+429,Garbage,Overflowing garbage bin near Palpannai Cross Street is attracting stray dogs and flies.,Palpannai,2026-03-09,Low,Pending
+430,Electricity,Low voltage supply in Melapudur is damaging household appliances.,Melapudur,2025-12-30,Low,Pending
+431,Water Supply,No water supply in K.K. Nagar Market Street for the past 2 days.,K.K. Nagar,2025-06-08,Low,In Progress
+432,Electricity,Street junction box in K.K. Nagar is open with live wires exposed.,K.K. Nagar,2025-02-09,Medium,In Progress
+433,Road Damage,Deep crack across the road in K.K. Nagar is widening every day.,K.K. Nagar,2026-03-07,Medium,Resolved
+434,Garbage,Household waste is being dumped on the roadside in Ariyamangalam instead of the bin.,Ariyamangalam,2026-04-30,High,Pending
+435,Road Damage,Broken footpath tiles on Puthur Lake Road are a tripping hazard for pedestrians.,Puthur,2025-08-22,Medium,Resolved
+436,Electricity,Frequent power cuts in Anna Nagar Market Street for the past week without prior notice.,Anna Nagar,2026-03-25,High,In Progress
+437,Garbage,Construction debris dumped illegally on Thillai Nagar Market Street is blocking the footpath.,Thillai Nagar,2026-01-26,High,In Progress
+438,Electricity,"Electricity meter in Puthur Bypass Road is malfunctioning, incorrect readings.",Puthur,2026-02-21,Low,Resolved
+439,Water Supply,"Water supply valve in Ponmalai is broken, entire street has no water.",Ponmalai,2025-02-07,Medium,Pending
+440,Water Supply,No water supply since the pipeline repair work started in Chinthamani Cross Street.,Chinthamani,2025-03-07,Medium,In Progress
+441,Street Light,Street light near Thiruverumbur park has been off since last month.,Thiruverumbur,2025-09-28,High,In Progress
+442,Water Supply,No water supply in Bharathi Nagar Colony Road for the past 2 days.,Bharathi Nagar,2025-01-09,High,Resolved
+443,Garbage,Uncollected garbage near the market in Vayalur Road is causing a hygiene issue.,Vayalur Road,2025-03-25,Medium,Pending
+444,Electricity,Low voltage supply in Vayalur Road is damaging household appliances.,Vayalur Road,2026-06-13,Medium,Pending
+445,Road Damage,Broken footpath tiles on Ponmalai Colony Road are a tripping hazard for pedestrians.,Ponmalai,2026-05-20,Low,Pending
+446,Road Damage,"Speed breaker on Edamalaipatti Pudur 2nd Street is broken and unmarked, risky at night.",Edamalaipatti Pudur,2025-10-03,High,In Progress
+447,Street Light,Street light near Vayalur Road bus stop flickers constantly at night.,Vayalur Road,2025-05-19,High,Resolved
+448,Garbage,Plastic waste is piling up near the Woraiyur Lake Road community bin.,Woraiyur,2025-12-01,Medium,In Progress
+449,Drainage,Sewage water has entered houses in Edamalaipatti Pudur Market Street after the rain.,Edamalaipatti Pudur,2025-05-01,Medium,In Progress
+450,Garbage,Household waste is being dumped on the roadside in Puthur instead of the bin.,Puthur,2025-02-21,Medium,In Progress
+451,Road Damage,Large pothole on Golden Rock 3rd Street is causing accidents for two-wheelers.,Golden Rock,2025-02-10,Low,In Progress
+452,Electricity,"Electricity meter in Chinthamani Bypass Road is malfunctioning, incorrect readings.",Chinthamani,2025-08-27,Low,Pending
+453,Street Light,Street light near Bharathi Nagar park has been off since last month.,Bharathi Nagar,2025-08-17,Low,Pending
+454,Electricity,"Electricity meter in Melapudur Lake Road is malfunctioning, incorrect readings.",Melapudur,2025-02-08,Low,In Progress
+455,Water Supply,Pipeline leakage near Bharathi Nagar Colony Road is wasting a large amount of water daily.,Bharathi Nagar,2026-05-28,High,In Progress
+456,Garbage,Uncollected garbage near the market in Cantonment is causing a hygiene issue.,Cantonment,2026-03-14,High,Pending
+457,Drainage,Open drain near Srirangam school is a safety hazard for children.,Srirangam,2025-05-23,Low,In Progress
+458,Street Light,Multiple street lights along Ariyamangalam 3rd Street are non-functional after the storm.,Ariyamangalam,2025-02-21,High,Resolved
+459,Drainage,Stagnant drainage water in Thillai Nagar has been standing for over a week.,Thillai Nagar,2025-04-07,High,Resolved
+460,Garbage,Public dustbin at Golden Rock junction is broken and waste is scattered on the road.,Golden Rock,2025-12-24,Low,Pending
+461,Street Light,"No streetlight coverage on Vayalur Road Main Road, unsafe for women at night.",Vayalur Road,2025-08-15,High,Pending
+462,Electricity,Frequent power cuts in Ariyamangalam Bypass Road for the past week without prior notice.,Ariyamangalam,2025-01-10,Medium,Pending
+463,Garbage,Plastic waste is piling up near the Chinthamani Market Street community bin.,Chinthamani,2025-12-06,Low,Pending
+464,Street Light,Broken street light glass in Anna Nagar 2nd Street is scattered on the footpath.,Anna Nagar,2026-06-16,Low,Resolved
+465,Drainage,Stagnant drainage water in Golden Rock has been standing for over a week.,Golden Rock,2025-04-27,Low,Resolved
+466,Drainage,Drainage cleaning has not been done in Thillai Nagar Cross Street for months.,Thillai Nagar,2025-11-13,Medium,Resolved
+467,Water Supply,"Water pressure is extremely low in Cantonment, unable to fill overhead tank.",Cantonment,2026-02-23,Medium,Resolved
+468,Electricity,Exposed electrical wires near Cantonment Lake Road are a serious safety hazard.,Cantonment,2025-02-08,Low,Pending
+469,Electricity,Frequent power cuts in Thiruverumbur 3rd Street for the past week without prior notice.,Thiruverumbur,2025-05-14,Medium,Resolved
+470,Garbage,Uncollected garbage near the market in Puthur is causing a hygiene issue.,Puthur,2025-03-16,Low,In Progress
+471,Road Damage,Road near K.K. Nagar junction has completely eroded after recent rains.,K.K. Nagar,2025-05-01,Low,In Progress
+472,Water Supply,New water connection request in Palpannai is pending for over a month.,Palpannai,2026-01-26,High,Resolved
+473,Electricity,Exposed electrical wires near Thillai Nagar Main Road are a serious safety hazard.,Thillai Nagar,2025-03-08,Low,Resolved
+474,Electricity,Low voltage supply in Cantonment is damaging household appliances.,Cantonment,2025-10-14,Medium,Pending
+475,Drainage,Broken underground drainage pipe in Anna Nagar is leaking onto the street.,Anna Nagar,2026-06-15,Low,In Progress
+476,Electricity,Transformer near Ponmalai Cross Street is making loud noise and sparking.,Ponmalai,2026-04-30,Low,In Progress
+477,Street Light,Multiple street lights along Bharathi Nagar 2nd Street are non-functional after the storm.,Bharathi Nagar,2025-09-06,Low,Resolved
+478,Road Damage,"Road repair work in Chinthamani was left incomplete, causing traffic issues.",Chinthamani,2026-02-06,Medium,Resolved
+479,Garbage,No garbage collection has happened in Cantonment since last Monday.,Cantonment,2026-02-20,High,Pending
+480,Street Light,"No streetlight coverage on Edamalaipatti Pudur Market Street, unsafe for women at night.",Edamalaipatti Pudur,2025-11-18,Low,In Progress
+481,Drainage,Drainage cleaning has not been done in Vayalur Road Market Street for months.,Vayalur Road,2026-03-04,Medium,Pending
+482,Water Supply,Pipeline leakage near K.K. Nagar Lake Road is wasting a large amount of water daily.,K.K. Nagar,2025-04-16,Low,Resolved
+483,Electricity,Street junction box in Ponmalai is open with live wires exposed.,Ponmalai,2025-07-30,High,Pending
+484,Road Damage,Newly laid road in Golden Rock is already cracking within a few months.,Golden Rock,2025-11-28,High,In Progress
+485,Electricity,Street junction box in Edamalaipatti Pudur is open with live wires exposed.,Edamalaipatti Pudur,2025-09-29,Low,Resolved
+486,Electricity,Transformer near Palpannai Bypass Road is making loud noise and sparking.,Palpannai,2025-08-17,High,Resolved
+487,Water Supply,"Water supply valve in Puthur is broken, entire street has no water.",Puthur,2025-03-24,Medium,Resolved
+488,Electricity,Power has not been restored in Puthur since yesterday's outage.,Puthur,2025-04-08,High,Pending
+489,Street Light,Street light near Kattur Lake Road has not been working for 10 days.,Kattur,2025-09-29,High,Resolved
+490,Road Damage,Road near Cantonment junction has completely eroded after recent rains.,Cantonment,2025-05-25,High,In Progress
+491,Garbage,No garbage collection has happened in Golden Rock since last Monday.,Golden Rock,2026-01-09,Low,In Progress
+492,Electricity,"Electricity meter in Melapudur 3rd Street is malfunctioning, incorrect readings.",Melapudur,2026-05-03,Medium,Pending
+493,Street Light,Entire stretch of Thiruverumbur 3rd Street is dark at night due to non-functional lights.,Thiruverumbur,2026-04-23,Low,In Progress
+494,Electricity,"Electricity meter in K.K. Nagar Cross Street is malfunctioning, incorrect readings.",K.K. Nagar,2025-12-06,Low,Pending
+495,Street Light,Broken street light glass in Edamalaipatti Pudur Colony Road is scattered on the footpath.,Edamalaipatti Pudur,2026-05-25,Low,Pending
+496,Road Damage,Waterlogged potholes on Palpannai 2nd Street are damaging vehicle tyres.,Palpannai,2025-06-20,Medium,In Progress
+497,Drainage,Stagnant drainage water in Kattur has been standing for over a week.,Kattur,2025-10-09,High,Pending
+498,Garbage,Overflowing garbage bin near Ponmalai 3rd Street is attracting stray dogs and flies.,Ponmalai,2025-06-06,Medium,Pending
+499,Road Damage,Waterlogged potholes on Kattur Cross Street are damaging vehicle tyres.,Kattur,2026-06-25,Low,In Progress
+500,Drainage,Drainage cleaning has not been done in Puthur Lake Road for months.,Puthur,2025-10-16,Medium,Resolved
+501,Street Light,Broken street light glass in Melapudur Main Road is scattered on the footpath.,Melapudur,2026-04-19,High,In Progress
+502,Water Supply,Pipeline leakage near Edamalaipatti Pudur Lake Road is wasting a large amount of water daily.,Edamalaipatti Pudur,2026-03-28,Medium,Pending
+503,Electricity,Repeated tripping of power supply in Melapudur disrupts daily work.,Melapudur,2025-04-26,Medium,Pending
+504,Road Damage,Deep crack across the road in Anna Nagar is widening every day.,Anna Nagar,2026-03-24,Low,Pending
+505,Road Damage,Deep crack across the road in Anna Nagar is widening every day.,Anna Nagar,2025-04-12,High,In Progress
+506,Road Damage,Large pothole on Thillai Nagar Lake Road is causing accidents for two-wheelers.,Thillai Nagar,2026-01-02,Low,Resolved
+507,Street Light,Entire stretch of Srirangam Main Road is dark at night due to non-functional lights.,Srirangam,2026-04-03,High,Resolved
+508,Street Light,"No streetlight coverage on Bharathi Nagar 2nd Street, unsafe for women at night.",Bharathi Nagar,2026-01-15,High,Resolved
+509,Street Light,Street light near Bharathi Nagar park has been off since last month.,Bharathi Nagar,2025-12-20,Low,In Progress
+510,Electricity,Low voltage supply in Golden Rock is damaging household appliances.,Golden Rock,2025-10-09,Medium,In Progress
+511,Garbage,Plastic waste is piling up near the Anna Nagar Bypass Road community bin.,Anna Nagar,2025-08-04,High,Pending
+512,Water Supply,"Water pressure is extremely low in Vayalur Road, unable to fill overhead tank.",Vayalur Road,2025-04-13,Medium,Pending
+513,Garbage,Uncollected garbage near the market in Thiruverumbur is causing a hygiene issue.,Thiruverumbur,2025-10-28,Medium,Pending
+514,Water Supply,Pipeline leakage near Puthur Market Street is wasting a large amount of water daily.,Puthur,2025-04-12,High,Pending
+515,Water Supply,New water connection request in Kattur is pending for over a month.,Kattur,2026-06-20,Medium,In Progress
+516,Drainage,Choked stormwater drain in Thillai Nagar 2nd Street floods during light rain.,Thillai Nagar,2025-02-01,Low,Resolved
+517,Drainage,Blocked drainage near Golden Rock is causing mosquito breeding and bad odour.,Golden Rock,2026-03-11,Medium,Resolved
+518,Garbage,"Garbage has not been collected in Srirangam 2nd Street for over a week, causing bad smell.",Srirangam,2025-06-13,High,In Progress
+519,Electricity,Power has not been restored in Bharathi Nagar since yesterday's outage.,Bharathi Nagar,2025-07-03,Low,Resolved
+520,Water Supply,"Irregular water supply timing in Srirangam, water comes only for 10 minutes.",Srirangam,2025-04-13,High,In Progress
+521,Electricity,Electric pole near Ariyamangalam is leaning dangerously and needs urgent repair.,Ariyamangalam,2025-11-04,High,In Progress
+522,Electricity,Street junction box in Palpannai is open with live wires exposed.,Palpannai,2025-10-16,Medium,Pending
+523,Electricity,Overhead electric line is sagging dangerously low on Puthur Main Road.,Puthur,2026-01-13,Low,In Progress
+524,Electricity,Overhead electric line is sagging dangerously low on Palpannai 3rd Street.,Palpannai,2025-04-07,Medium,Pending
+525,Water Supply,Pipeline leakage near Thillai Nagar 2nd Street is wasting a large amount of water daily.,Thillai Nagar,2025-09-03,Low,Resolved
+526,Electricity,Power has not been restored in Golden Rock since yesterday's outage.,Golden Rock,2026-01-17,Low,Resolved
+527,Street Light,Multiple street lights along Srirangam 2nd Street are non-functional after the storm.,Srirangam,2025-04-10,Medium,In Progress
+528,Road Damage,Uneven road surface on Ponmalai Bypass Road makes it difficult for vehicles to pass.,Ponmalai,2025-07-25,Medium,In Progress
+529,Drainage,Open drain near Ponmalai school is a safety hazard for children.,Ponmalai,2025-02-18,High,In Progress
+530,Electricity,Overhead electric line is sagging dangerously low on Bharathi Nagar 2nd Street.,Bharathi Nagar,2026-01-15,Medium,In Progress
+531,Garbage,Construction debris dumped illegally on Edamalaipatti Pudur 2nd Street is blocking the footpath.,Edamalaipatti Pudur,2025-02-28,High,Pending
+532,Garbage,No garbage collection has happened in Ariyamangalam since last Monday.,Ariyamangalam,2025-06-13,High,Pending
+533,Water Supply,Salty/foul smelling water is being supplied in Bharathi Nagar Bypass Road.,Bharathi Nagar,2026-05-15,High,Pending
+534,Drainage,Sewage water has entered houses in Thillai Nagar Lake Road after the rain.,Thillai Nagar,2025-06-26,High,In Progress
+535,Road Damage,"Speed breaker on Puthur Cross Street is broken and unmarked, risky at night.",Puthur,2025-04-06,Medium,Resolved
+536,Electricity,Power has not been restored in Anna Nagar since yesterday's outage.,Anna Nagar,2025-06-20,Medium,Pending
+537,Garbage,"Garbage has not been collected in Gandhi Nagar 3rd Street for over a week, causing bad smell.",Gandhi Nagar,2025-07-24,Low,Resolved
+538,Electricity,Frequent power cuts in Cantonment 3rd Street for the past week without prior notice.,Cantonment,2026-06-13,Low,In Progress
+539,Drainage,Foul smell from the drainage line near Chinthamani market is unbearable.,Chinthamani,2026-02-24,High,Pending
+540,Street Light,"No streetlight coverage on Srirangam Market Street, unsafe for women at night.",Srirangam,2025-11-12,High,Resolved
+541,Drainage,Sewage water has entered houses in Crawford Colony Road after the rain.,Crawford,2025-11-29,High,Resolved
+542,Drainage,"Drainage cover is missing on Thillai Nagar Cross Street, risk of accidents.",Thillai Nagar,2026-06-04,Medium,In Progress
+543,Electricity,Electric pole near Golden Rock is leaning dangerously and needs urgent repair.,Golden Rock,2026-05-24,Medium,Resolved
+544,Garbage,Plastic waste is piling up near the Ariyamangalam 2nd Street community bin.,Ariyamangalam,2026-06-06,Medium,Pending
+545,Water Supply,"Water pressure is extremely low in Puthur, unable to fill overhead tank.",Puthur,2026-02-23,Low,Pending
+546,Road Damage,Road near Palpannai junction has completely eroded after recent rains.,Palpannai,2025-10-12,Low,In Progress
+547,Drainage,Drainage water is overflowing onto the road in Edamalaipatti Pudur Colony Road.,Edamalaipatti Pudur,2025-11-06,Medium,Pending
+548,Garbage,"Garbage has not been collected in Thiruverumbur Market Street for over a week, causing bad smell.",Thiruverumbur,2025-10-02,Low,Pending
+549,Street Light,Street light near Golden Rock Market Street has not been working for 10 days.,Golden Rock,2025-08-30,Medium,In Progress
+550,Water Supply,New water connection request in Woraiyur is pending for over a month.,Woraiyur,2025-08-01,High,Pending
+551,Road Damage,"Road repair work in Anna Nagar was left incomplete, causing traffic issues.",Anna Nagar,2025-03-30,Medium,Pending
+552,Garbage,Plastic waste is piling up near the Srirangam 3rd Street community bin.,Srirangam,2025-07-16,Low,Resolved
+553,Electricity,Electric pole near Anna Nagar is leaning dangerously and needs urgent repair.,Anna Nagar,2026-06-17,Medium,Resolved
+554,Street Light,Broken street light glass in Srirangam 3rd Street is scattered on the footpath.,Srirangam,2026-05-16,Low,Resolved
+555,Road Damage,"Road repair work in Puthur was left incomplete, causing traffic issues.",Puthur,2026-02-03,Low,Resolved
+556,Electricity,Street junction box in Ariyamangalam is open with live wires exposed.,Ariyamangalam,2025-09-12,Medium,Resolved
+557,Electricity,Transformer near Melapudur Cross Street is making loud noise and sparking.,Melapudur,2025-04-19,High,Pending
+558,Street Light,Newly installed street light in Ponmalai Cross Street is not switching on.,Ponmalai,2025-02-02,Low,In Progress
+559,Road Damage,Broken footpath tiles on Palpannai Main Road are a tripping hazard for pedestrians.,Palpannai,2025-07-03,Medium,Pending
+560,Water Supply,"Water supply valve in Thillai Nagar is broken, entire street has no water.",Thillai Nagar,2025-06-05,Low,Resolved
+561,Garbage,"Dead animal lying near the garbage dump in Golden Rock 3rd Street, needs urgent removal.",Golden Rock,2025-10-11,High,In Progress
+562,Road Damage,"Speed breaker on Puthur Lake Road is broken and unmarked, risky at night.",Puthur,2025-06-21,Low,Resolved
+563,Water Supply,Salty/foul smelling water is being supplied in Golden Rock Main Road.,Golden Rock,2025-10-17,High,In Progress
+564,Water Supply,New water connection request in Thillai Nagar is pending for over a month.,Thillai Nagar,2025-10-22,Low,Resolved
+565,Water Supply,Contaminated/muddy water is coming from the tap in Thillai Nagar 2nd Street.,Thillai Nagar,2025-10-09,High,Resolved
+566,Drainage,Open drain near Gandhi Nagar school is a safety hazard for children.,Gandhi Nagar,2025-04-12,High,Resolved
+567,Road Damage,Road near Crawford junction has completely eroded after recent rains.,Crawford,2025-09-10,High,Resolved
+568,Garbage,Uncollected garbage near the market in Gandhi Nagar is causing a hygiene issue.,Gandhi Nagar,2026-03-09,Medium,In Progress
+569,Garbage,No garbage collection has happened in Golden Rock since last Monday.,Golden Rock,2025-01-04,Medium,Pending
+570,Drainage,Sewage water has entered houses in Thiruverumbur Cross Street after the rain.,Thiruverumbur,2026-04-06,Medium,Resolved
+571,Water Supply,"Water supply valve in Ponmalai is broken, entire street has no water.",Ponmalai,2026-01-29,Medium,Pending
+572,Street Light,"No streetlight coverage on Anna Nagar Main Road, unsafe for women at night.",Anna Nagar,2025-10-16,Medium,Resolved
+573,Road Damage,Deep crack across the road in Gandhi Nagar is widening every day.,Gandhi Nagar,2025-05-20,Low,In Progress
+574,Garbage,Construction debris dumped illegally on Thiruverumbur Cross Street is blocking the footpath.,Thiruverumbur,2025-08-29,High,In Progress
+575,Water Supply,No water supply in Kattur Lake Road for the past 2 days.,Kattur,2025-10-21,Low,Resolved
+576,Drainage,Sewage water has entered houses in Cantonment Bypass Road after the rain.,Cantonment,2025-08-19,Medium,Resolved
+577,Water Supply,New water connection request in Golden Rock is pending for over a month.,Golden Rock,2025-04-04,Low,Resolved
+578,Road Damage,Waterlogged potholes on Melapudur 3rd Street are damaging vehicle tyres.,Melapudur,2025-11-30,Medium,In Progress
+579,Street Light,Street light near Woraiyur park has been off since last month.,Woraiyur,2025-08-02,Medium,In Progress
+580,Street Light,Street light near Melapudur bus stop flickers constantly at night.,Melapudur,2026-06-04,High,Resolved
+581,Water Supply,Water tanker has not arrived in Thiruverumbur despite booking three days ago.,Thiruverumbur,2025-01-03,Medium,Pending
+582,Water Supply,Pipeline leakage near Puthur Cross Street is wasting a large amount of water daily.,Puthur,2025-08-28,Medium,Resolved
+583,Water Supply,Salty/foul smelling water is being supplied in Crawford Lake Road.,Crawford,2026-03-29,Low,Pending
+584,Garbage,Uncollected garbage near the market in Kattur is causing a hygiene issue.,Kattur,2025-11-03,High,Pending
+585,Street Light,"No streetlight coverage on Ponmalai Colony Road, unsafe for women at night.",Ponmalai,2026-01-04,High,In Progress
+586,Electricity,Power has not been restored in Golden Rock since yesterday's outage.,Golden Rock,2025-04-02,Low,In Progress
+587,Road Damage,Newly laid road in Ponmalai is already cracking within a few months.,Ponmalai,2026-03-10,High,In Progress
+588,Street Light,Entire stretch of Melapudur Cross Street is dark at night due to non-functional lights.,Melapudur,2025-03-05,High,Resolved
+589,Water Supply,No water supply since the pipeline repair work started in Ariyamangalam Colony Road.,Ariyamangalam,2026-01-13,Medium,Resolved
+590,Road Damage,Uneven road surface on Vayalur Road Main Road makes it difficult for vehicles to pass.,Vayalur Road,2025-10-11,High,Pending
+591,Water Supply,"Water supply valve in Kattur is broken, entire street has no water.",Kattur,2025-10-14,Low,Resolved
+592,Road Damage,Waterlogged potholes on Thiruverumbur Cross Street are damaging vehicle tyres.,Thiruverumbur,2025-11-04,Low,Resolved
+593,Garbage,No garbage collection has happened in Crawford since last Monday.,Crawford,2026-03-23,High,Resolved
+594,Garbage,Plastic waste is piling up near the Ponmalai 2nd Street community bin.,Ponmalai,2026-03-25,High,Resolved
+595,Road Damage,Uneven road surface on Crawford Colony Road makes it difficult for vehicles to pass.,Crawford,2025-12-18,Medium,Pending
+596,Water Supply,"Water supply valve in Palpannai is broken, entire street has no water.",Palpannai,2026-05-03,High,Resolved
+597,Road Damage,Missing manhole cover on Bharathi Nagar Market Street is extremely dangerous for commuters.,Bharathi Nagar,2025-02-07,Medium,Resolved
+598,Drainage,Blocked drainage near Vayalur Road is causing mosquito breeding and bad odour.,Vayalur Road,2025-10-28,Medium,Pending
+599,Drainage,Drainage water is overflowing onto the road in Crawford Colony Road.,Crawford,2025-07-04,Low,In Progress
+600,Street Light,Street light timer in Vayalur Road is faulty; lights stay on during the day.,Vayalur Road,2025-03-30,Medium,Resolved
+601,Street Light,Street light timer in Chinthamani is faulty; lights stay on during the day.,Chinthamani,2025-09-04,Low,Resolved
+602,Street Light,Street light near Chinthamani Main Road has not been working for 10 days.,Chinthamani,2025-03-18,High,Pending
+603,Drainage,Blocked drainage near Thiruverumbur is causing mosquito breeding and bad odour.,Thiruverumbur,2025-03-08,High,Resolved
+604,Drainage,Stagnant drainage water in Crawford has been standing for over a week.,Crawford,2025-07-05,Low,Resolved
+605,Street Light,Street light near Golden Rock park has been off since last month.,Golden Rock,2025-05-05,High,Resolved
+606,Electricity,Frequent power cuts in Edamalaipatti Pudur 2nd Street for the past week without prior notice.,Edamalaipatti Pudur,2025-06-27,High,Pending
+607,Garbage,The garbage truck has skipped our street (Golden Rock Lake Road) for three days in a row.,Golden Rock,2025-03-21,High,In Progress
+608,Street Light,Street light near Melapudur 3rd Street has not been working for 10 days.,Melapudur,2026-01-07,High,In Progress
+609,Water Supply,New water connection request in Crawford is pending for over a month.,Crawford,2025-04-03,Medium,In Progress
+610,Electricity,Low voltage supply in K.K. Nagar is damaging household appliances.,K.K. Nagar,2025-06-09,Low,Pending
+611,Drainage,Choked stormwater drain in K.K. Nagar Cross Street floods during light rain.,K.K. Nagar,2025-11-14,High,In Progress
+612,Water Supply,No water supply in Golden Rock Lake Road for the past 2 days.,Golden Rock,2025-04-27,Low,In Progress
+613,Road Damage,Newly laid road in Edamalaipatti Pudur is already cracking within a few months.,Edamalaipatti Pudur,2026-05-03,Low,In Progress
+614,Garbage,No garbage collection has happened in Cantonment since last Monday.,Cantonment,2025-05-11,High,Resolved
+615,Drainage,Foul smell from the drainage line near Crawford market is unbearable.,Crawford,2025-03-26,High,In Progress
+616,Water Supply,"Irregular water supply timing in Ariyamangalam, water comes only for 10 minutes.",Ariyamangalam,2025-09-14,High,Resolved
+617,Electricity,Power has not been restored in Thiruverumbur since yesterday's outage.,Thiruverumbur,2025-10-06,Low,Pending
+618,Water Supply,Pipeline leakage near Gandhi Nagar Main Road is wasting a large amount of water daily.,Gandhi Nagar,2025-11-29,Low,In Progress
+619,Drainage,Blocked drainage near Ariyamangalam is causing mosquito breeding and bad odour.,Ariyamangalam,2026-01-06,Medium,Resolved
+620,Road Damage,Deep crack across the road in Ponmalai is widening every day.,Ponmalai,2025-05-14,High,In Progress
+621,Street Light,Street light near Golden Rock park has been off since last month.,Golden Rock,2025-04-22,High,Resolved
+622,Road Damage,Uneven road surface on Vayalur Road Market Street makes it difficult for vehicles to pass.,Vayalur Road,2025-01-30,High,Resolved
+623,Road Damage,Waterlogged potholes on Kattur Main Road are damaging vehicle tyres.,Kattur,2025-11-13,High,Resolved
+624,Drainage,"Drainage cover is missing on Gandhi Nagar 2nd Street, risk of accidents.",Gandhi Nagar,2025-10-07,High,In Progress
+625,Street Light,Broken street light glass in Melapudur Colony Road is scattered on the footpath.,Melapudur,2026-05-02,Low,In Progress
+626,Water Supply,Water tanker has not arrived in Edamalaipatti Pudur despite booking three days ago.,Edamalaipatti Pudur,2025-12-02,High,Pending
+627,Electricity,"Electricity meter in Gandhi Nagar Market Street is malfunctioning, incorrect readings.",Gandhi Nagar,2026-03-13,Low,In Progress
+628,Electricity,Power has not been restored in Melapudur since yesterday's outage.,Melapudur,2025-07-12,Medium,Resolved
+629,Garbage,The garbage truck has skipped our street (Srirangam Cross Street) for three days in a row.,Srirangam,2026-03-18,Medium,In Progress
+630,Street Light,Entire stretch of Palpannai Main Road is dark at night due to non-functional lights.,Palpannai,2025-03-12,Medium,Pending
+631,Street Light,"Street light pole in Puthur is damaged and sparking, safety concern.",Puthur,2026-02-27,Medium,Resolved
+632,Street Light,"No streetlight coverage on Golden Rock Lake Road, unsafe for women at night.",Golden Rock,2026-05-18,Medium,Pending
+633,Drainage,Stagnant drainage water in K.K. Nagar has been standing for over a week.,K.K. Nagar,2026-03-10,High,In Progress
+634,Drainage,Blocked drainage near Thiruverumbur is causing mosquito breeding and bad odour.,Thiruverumbur,2025-11-10,Medium,Resolved
+635,Road Damage,Uneven road surface on Woraiyur 3rd Street makes it difficult for vehicles to pass.,Woraiyur,2025-03-02,High,In Progress
+636,Garbage,Overflowing garbage bin near Crawford Colony Road is attracting stray dogs and flies.,Crawford,2025-09-03,Low,Pending
+637,Water Supply,Pipeline leakage near Kattur Colony Road is wasting a large amount of water daily.,Kattur,2026-03-26,Low,In Progress
+638,Drainage,Drainage cleaning has not been done in Thiruverumbur Main Road for months.,Thiruverumbur,2025-01-30,Low,Pending
+639,Street Light,Street light near Edamalaipatti Pudur park has been off since last month.,Edamalaipatti Pudur,2025-08-19,Medium,Resolved
+640,Electricity,Street junction box in Srirangam is open with live wires exposed.,Srirangam,2025-08-19,Low,In Progress
+641,Garbage,The garbage truck has skipped our street (Golden Rock Lake Road) for three days in a row.,Golden Rock,2025-09-15,Low,Pending
+642,Drainage,Stagnant drainage water in Ariyamangalam has been standing for over a week.,Ariyamangalam,2025-06-22,Low,Resolved
+643,Road Damage,Road near Srirangam junction has completely eroded after recent rains.,Srirangam,2026-01-12,Medium,Pending
+644,Water Supply,No water supply in Palpannai Lake Road for the past 2 days.,Palpannai,2026-02-28,Low,Pending
+645,Water Supply,Pipeline leakage near Palpannai Cross Street is wasting a large amount of water daily.,Palpannai,2026-04-11,Medium,Resolved
+646,Electricity,Transformer near Melapudur 3rd Street is making loud noise and sparking.,Melapudur,2025-08-15,High,Pending
+647,Drainage,Foul smell from the drainage line near Woraiyur market is unbearable.,Woraiyur,2025-05-21,Low,Pending
+648,Electricity,Frequent power cuts in Ariyamangalam Main Road for the past week without prior notice.,Ariyamangalam,2026-04-13,Low,In Progress
+649,Street Light,"No streetlight coverage on Kattur 2nd Street, unsafe for women at night.",Kattur,2025-11-17,High,In Progress
+650,Drainage,"Drainage cover is missing on Woraiyur 2nd Street, risk of accidents.",Woraiyur,2026-06-25,Medium,Pending
+651,Street Light,Entire stretch of Bharathi Nagar Lake Road is dark at night due to non-functional lights.,Bharathi Nagar,2025-10-14,High,Resolved
+652,Garbage,Household waste is being dumped on the roadside in Vayalur Road instead of the bin.,Vayalur Road,2025-07-03,High,In Progress
+653,Road Damage,Waterlogged potholes on Kattur 2nd Street are damaging vehicle tyres.,Kattur,2025-11-01,High,Resolved
+654,Water Supply,Water tanker has not arrived in Thillai Nagar despite booking three days ago.,Thillai Nagar,2025-04-15,High,In Progress
+655,Drainage,Blocked drainage near Bharathi Nagar is causing mosquito breeding and bad odour.,Bharathi Nagar,2026-06-10,High,Resolved
+656,Drainage,Blocked drainage near Chinthamani is causing mosquito breeding and bad odour.,Chinthamani,2025-03-11,High,Resolved
+657,Electricity,Repeated tripping of power supply in Edamalaipatti Pudur disrupts daily work.,Edamalaipatti Pudur,2025-04-10,Low,Pending
+658,Electricity,Power has not been restored in Kattur since yesterday's outage.,Kattur,2025-04-17,Medium,Pending
+659,Electricity,Power has not been restored in Woraiyur since yesterday's outage.,Woraiyur,2025-11-12,Medium,In Progress
+660,Street Light,"No streetlight coverage on Ponmalai Main Road, unsafe for women at night.",Ponmalai,2025-09-25,High,In Progress
