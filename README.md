@@ -47,13 +47,31 @@ Synthetic civic complaint dataset generated using Python.
 ```
 ai-service/
 │
-├── generate_dataset.py       # Generates the synthetic complaint dataset
-├── preprocess.py             # Cleans and preprocesses complaint text
-├── complaints.csv            # Raw generated dataset
-├── complaints_clean.csv      # Cleaned & tokenized dataset
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
-```
+├── data/
+│   ├── complaints.csv
+│   └── complaints_clean.csv
+│
+├── docs/
+│   └── day5_backend_integration.md
+│
+├── models/
+│   ├── model.pkl
+│   └── vectorizer.pkl
+│
+├── notebooks/
+│
+├── utils/
+│   ├── __init__.py
+│   ├── helpers.py
+│   ├── verify_dataset.py
+│   └── verify_cleaning.py
+│
+├── generate_dataset.py
+├── preprocess.py
+├── train_model.py
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 ---
 
