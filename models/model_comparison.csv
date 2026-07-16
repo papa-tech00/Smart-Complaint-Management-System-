@@ -1,0 +1,4 @@
+Model,Accuracy
+Naive Bayes,1.0
+Logistic Regression,1.0
+Random Forest,1.0
