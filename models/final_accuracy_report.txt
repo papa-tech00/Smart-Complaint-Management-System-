@@ -1,0 +1,56 @@
+SMART COMPLAINT MANAGEMENT SYSTEM
+FINAL MODEL ACCURACY REPORT
+============================================================
+
+Final Model Accuracy: 100.00%
+
+Category Mapping:
+0 -> Drainage
+1 -> Electricity
+2 -> Garbage
+3 -> Road Damage
+4 -> Street Light
+5 -> Water Supply
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Drainage       1.00      1.00      1.00        19
+ Electricity       1.00      1.00      1.00        19
+     Garbage       1.00      1.00      1.00        19
+ Road Damage       1.00      1.00      1.00        19
+Street Light       1.00      1.00      1.00        20
+Water Supply       1.00      1.00      1.00        20
+
+    accuracy                           1.00       116
+   macro avg       1.00      1.00      1.00       116
+weighted avg       1.00      1.00      1.00       116
+
+Confusion Matrix:
+              Drainage  Electricity  Garbage  Road Damage  Street Light  Water Supply
+Drainage            19            0        0            0             0             0
+Electricity          0           19        0            0             0             0
+Garbage              0            0       19            0             0             0
+Road Damage          0            0        0           19             0             0
+Street Light         0            0        0            0            20             0
+Water Supply         0            0        0            0             0            20
+
+New Complaint Predictions:
+
+Complaint: Garbage has not been collected from our street for three days
+Predicted Category: Garbage
+
+Complaint: There is no water supply in Melapudur since yesterday
+Predicted Category: Water Supply
+
+Complaint: The drainage is overflowing near the main road
+Predicted Category: Drainage
+
+Complaint: The street light near Anna Nagar is not working
+Predicted Category: Street Light
+
+Complaint: There is a deep pothole on the road in Cantonment
+Predicted Category: Road Damage
+
+Complaint: Frequent power cuts are happening in our area
+Predicted Category: Electricity
