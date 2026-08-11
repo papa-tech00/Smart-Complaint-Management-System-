@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, request
 import joblib
 import os
 
@@ -78,6 +78,71 @@ def home():
         }
     ), 200
 
+@app.route("/predict", methods=["POST"])
+def predict():
+    if model is None or vectorizer is None:
+        return jsonify(
+            {
+                "status": "error",
+                "message": "Model or vectorizer is not loaded"
+            }
+        ), 503
+
+    data = request.get_json(silent=True)
+
+    if not data:
+        return jsonify(
+            {
+                "status": "error",
+                "message": "JSON data is required"
+            }
+        ), 400
+
+    complaint_text = data.get("complaint", "")
+
+    if not isinstance(complaint_text, str) or not complaint_text.strip():
+        return jsonify(
+            {
+                "status": "error",
+                "message": "Complaint text is required"
+            }
+        ), 400
+
+    try:
+        vectorized_text = vectorizer.transform([complaint_text])
+
+        prediction = model.predict(vectorized_text)
+        predicted_value = prediction[0]
+
+        category_mapping = {
+            0: "Drainage",
+            1: "Electricity",
+            2: "Garbage",
+            3: "Road Damage",
+            4: "Street Light",
+            5: "Water Supply"
+        }
+
+        if predicted_value in category_mapping:
+            predicted_category = category_mapping[predicted_value]
+        else:
+            predicted_category = str(predicted_value)
+
+        return jsonify(
+            {
+                "status": "success",
+                "complaint": complaint_text,
+                "predicted_category": predicted_category
+            }
+        ), 200
+
+    except Exception as error:
+        return jsonify(
+            {
+                "status": "error",
+                "message": f"Prediction failed: {str(error)}"
+            }
+        ), 500
 
 @app.route("/health", methods=["GET"])
 def health_check():
