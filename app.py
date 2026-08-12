@@ -141,119 +141,116 @@ def home():
 @app.route("/predict", methods=["POST"])
 def predict():
 
-    # Check model and vectorizer
-    if model is None or vectorizer is None:
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Model or vectorizer is not loaded"
-            }
-        ), 503
+    # Check whether request Content-Type is JSON
+    if not request.is_json:
+        return jsonify({
+            "status": "error",
+            "message": "Request must be JSON"
+        }), 400
 
-    # Read JSON request
+    # Read JSON safely
     data = request.get_json(silent=True)
 
+    # Check malformed JSON
     if data is None:
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Valid JSON data is required"
-            }
-        ), 400
+        return jsonify({
+            "status": "error",
+            "message": "Invalid or malformed JSON"
+        }), 400
+
+    # JSON body must be an object
+    if not isinstance(data, dict):
+        return jsonify({
+            "status": "error",
+            "message": "JSON body must be an object"
+        }), 400
 
     # Check complaint field
     if "complaint" not in data:
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Complaint field is required"
-            }
-        ), 400
+        return jsonify({
+            "status": "error",
+            "message": "Complaint field is required"
+        }), 400
 
     complaint_text = data["complaint"]
 
     # Check complaint datatype
     if not isinstance(complaint_text, str):
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Complaint must be a string"
-            }
-        ), 400
+        return jsonify({
+            "status": "error",
+            "message": "Complaint must be a string"
+        }), 400
+
+    # Remove extra spaces
+    complaint_text = complaint_text.strip()
 
     # Check empty complaint
-    if not complaint_text.strip():
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Complaint text cannot be empty"
-            }
-        ), 400
+    if not complaint_text:
+        return jsonify({
+            "status": "error",
+            "message": "Complaint text cannot be empty"
+        }), 400
+
+    # Check maximum length
+    if len(complaint_text) > 5000:
+        return jsonify({
+            "status": "error",
+            "message": "Complaint text too long (max 5000 characters)"
+        }), 400
+
+    # Check model and vectorizer
+    if model is None or vectorizer is None:
+        return jsonify({
+            "status": "error",
+            "message": "Model or vectorizer is not loaded"
+        }), 503
 
     try:
-        # Apply the same preprocessing used during training
+        # Apply preprocessing
         cleaned_text = preprocess_text(complaint_text)
 
         if not cleaned_text:
-            return jsonify(
-                {
-                    "status": "error",
-                    "message": (
-                        "Complaint contains no valid text "
-                        "after preprocessing"
-                    )
-                }
-            ), 400
+            return jsonify({
+                "status": "error",
+                "message": (
+                    "Complaint contains no valid text "
+                    "after preprocessing"
+                )
+            }), 400
 
-        # Convert cleaned complaint into TF-IDF features
-        vectorized_text = vectorizer.transform(
-            [cleaned_text]
-        )
+        # Convert text into TF-IDF features
+        vectorized_text = vectorizer.transform([cleaned_text])
 
-        # Predict complaint category
-        prediction = model.predict(
-            vectorized_text
-        )[0]
+        # Predict category
+        prediction = model.predict(vectorized_text)[0]
 
+        # Convert prediction into readable category
         predicted_category = CATEGORY_MAPPING.get(
             prediction,
             str(prediction)
         )
 
-        # Create success response
-        response = {
-            "status": "success",
-            "complaint": complaint_text,
-            "cleaned_text": cleaned_text,
-            "predicted_category": predicted_category
-        }
+        # Default value when predict_proba is unsupported
+        confidence = None
 
-        # Add confidence if model supports predict_proba
+        # Calculate confidence when supported
         if hasattr(model, "predict_proba"):
-            probabilities = model.predict_proba(
-                vectorized_text
-            )[0]
+            probabilities = model.predict_proba(vectorized_text)[0]
+            confidence = round(float(max(probabilities)), 4)
 
-            confidence = max(probabilities)
-
-            response["confidence"] = round(
-                float(confidence),
-                4
-            )
-
-        return jsonify(response), 200
+        # Standard Day 4 response
+        return jsonify({
+            "category": predicted_category,
+            "confidence": confidence
+        }), 200
 
     except Exception as error:
-        print(f"Prediction error: {error}")
+        app.logger.exception("Prediction failed: %s", error)
 
-        return jsonify(
-            {
-                "status": "error",
-                "message": "Prediction failed",
-                "details": str(error)
-            }
-        ), 500
-
+        return jsonify({
+            "status": "error",
+            "message": "Prediction failed"
+        }), 500
 
 # --------------------------------------------------
 # Health-check route
